@@ -1,7 +1,7 @@
 """
 Requêtes et Analyses de la Base de Données
 Auteur: Freud GUEDOU
-Date: Octobre 2024
+Date: Mars 2025
 
 Script pour interroger et analyser les données chargées par le pipeline ETL
 """
