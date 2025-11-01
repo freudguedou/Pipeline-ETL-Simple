@@ -1,7 +1,7 @@
 """
 Générateur de Données d'Exemple
 Auteur: Freud GUEDOU
-Date: Octobre 2024
+Date: Mars 2025
 
 Génère des fichiers CSV d'exemple pour tester le pipeline ETL
 """
