@@ -1,7 +1,7 @@
 """
 Pipeline ETL Simple - Extraction, Transformation, Chargement
 Auteur: Freud GUEDOU
-Date: Octobre 2024
+Date:     Mars 2025
 
 Pipeline automatisé qui extrait des données CSV, les transforme, 
 les valide et les charge dans une base de données SQLite.
