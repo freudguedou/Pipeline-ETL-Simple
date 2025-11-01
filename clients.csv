@@ -1,0 +1,1051 @@
+﻿id_client,prenom,nom,email,age,ville,date_inscription,montant_total,statut
+1,Sophie,Robert,sophie.robert@email.com,38,Lyon,2024-02-01,3562.3,Premium
+2,Marie,Lefebvre,marie.lefebvre@email.com,57,Toulouse,2025-08-11,4886.0,Inactif
+3,Anne,Lefebvre,anne.lefebvre@email.com,32,  Nantes  ,2024-11-13,997.29,Premium
+4,Marc,Richard,marc.richard@email.com,36,Rennes,2025-03-19,2497.78,Inactif
+5,Nicolas,Petit,nicolas.petit@email.com,36,Paris,2025-05-06,671.2,Actif
+6,Anne,Simon,anne.simon@email.com,48,  Paris  ,2025-03-05,4332.75,Actif
+7,Pierre,Thomas,pierre.thomas@email.com,34,Strasbourg,2024-09-25,265.75,Inactif
+8,Anne,Thomas,anne.thomas@email.com,58,Toulouse,2024-05-08,3833.12,Inactif
+9,Jean,Leroy,jean.leroy@email.com,39,Toulouse,2025-05-17,3917.2,Actif
+10,Paul,Thomas,,105,Bordeaux,2025-04-04,346.41,Inactif
+11,David,Laurent,david.laurent@email.com,48,Marseille,2025-06-07,1905.12,Inactif
+12,Thomas,Simon,thomas.simon@email.com,110,Toulouse,2024-03-14,4181.03,Inactif
+13,Jean,Laurent,jean.laurent@email.com,71,Nice,2023-12-17,1604.7,Actif
+14,Luc,Lefebvre,luc.lefebvre@email.com,60,  Toulouse  ,2025-03-14,1267.55,Actif
+15,Laura,Thomas,laura.thomas@email.com,22,Rennes,2023-12-11,3364.39,Actif
+16,Laura,Richard,laura.richard@email.com,35,Bordeaux,2025-06-23,1200.98,Actif
+17,Anne,Simon,anne.simon@email.com,52,Paris,2025-08-15,598.88,Actif
+18,Nicolas,Martin,nicolas.martin@email.com,78,Nice,2024-08-19,375.17,Premium
+19,Claire,Lefebvre,claire.lefebvre@email.com,70,Lyon,2024-12-10,1273.66,Actif
+20,Julie,Dubois,julie.dubois@email.com,32,Nice,2024-04-26,4734.48,Premium
+21,Jean,Laurent,jean.laurent@email.com,48,Lyon,2025-03-18,1810.88,Premium
+22,Julie,Richard,julie.richard@email.com,23,Strasbourg,2025-04-02,4369.55,Actif
+23,David,Martin,david.martin@email.com,67,  Lille  ,2024-09-16,794.78,Premium
+24,Sophie,Martin,sophie.martin@email.com,45,Paris,2023-11-01,2697.49,Inactif
+25,Anne,Richard,anne.richard@email.com,45,Rennes,2024-03-24,3268.7,Actif
+26,Pierre,Petit,pierre.petit@email.com,39,Nantes,2025-02-08,1016.2,Inactif
+27,Anne,Durand,anne.durand@email.com,26,  Lyon  ,2023-11-13,4807.52,Actif
+28,Luc,Moreau,luc.moreau@email.com,53,Lyon,2025-05-26,2362.19,Inactif
+29,Laura,Simon,,55,Bordeaux,2023-12-08,2916.67,Premium
+30,Julie,Lefebvre,julie.lefebvre@email.com,48,Bordeaux,2024-08-13,3346.47,Actif
+31,Claire,Lefebvre,claire.lefebvre@email.com,26,Bordeaux,2025-08-20,3589.44,Actif
+32,Laura,Moreau,laura.moreau@email.com,50,Strasbourg,2025-04-20,4448.89,Inactif
+33,Jean,Leroy,jeanleroyemail.com,54,Lyon,2024-03-13,1764.41,Inactif
+34,Laura,Leroy,laura.leroy@email.com,48,Bordeaux,2025-08-10,4437.16,Actif
+35,Claire,Thomas,claire.thomas@email.com,71,Lyon,2025-10-20,3128.55,Actif
+36,Pierre,Laurent,pierre.laurent@email.com,79,  Toulouse  ,2023-12-19,1423.57,Premium
+37,Emma,Durand,emma.durand@email.com,68,Lyon,2023-12-18,3930.53,Actif
+38,Claire,Robert,claire.robert@email.com,61,Strasbourg,2024-05-21,2954.66,Premium
+39,David,Robert,david.robert@email.com,20,Rennes,2025-05-26,1755.83,Actif
+40,Jean,Moreau,jean.moreau@email.com,42,Paris,2025-08-03,1508.09,Inactif
+41,Marie,Martin,marie.martin@email.com,51,Rennes,2025-09-10,4890.15,Inactif
+42,Claire,Lefebvre,claire.lefebvre@email.com,79,Toulouse,2025-06-13,3779.79,Premium
+43,Marie,Dupont,mariedupontemail.com,80,Marseille,2024-05-04,1438.64,Inactif
+44,Emma,Petit,emma.petit@email.com,30,Lyon,2024-10-19,3654.08,Actif
+45,Sophie,Dupont,sophie.dupont@email.com,25,Nantes,2023-12-09,3283.09,Actif
+46,Pierre,Petit,pierre.petit@email.com,43,Nantes,2023-11-24,4884.22,Actif
+47,Julie,Laurent,julie.laurent@email.com,103,Lille,2025-07-21,2766.15,Premium
+48,Claire,Petit,claire.petit@email.com,52,Nice,2024-06-04,2302.64,Actif
+49,Paul,Dubois,paul.dubois@email.com,59,  Paris  ,2023-12-22,929.63,Premium
+50,David,Bernard,david.bernard@email.com,57,Nantes,2024-12-28,4544.48,Premium
+51,Jean,Simon,jean.simon@email.com,64,Marseille,2025-05-07,1313.39,Premium
+52,Anne,Moreau,anne.moreau@email.com,75,Toulouse,2023-11-25,140.11,Premium
+53,Nicolas,Moreau,nicolas.moreau@email.com,60,Nice,2025-07-16,3220.19,Inactif
+54,Marie,Lefebvre,marie.lefebvre@email.com,27,  Lyon  ,2025-08-29,1799.71,Actif
+55,Julie,Martin,julie.martin@email.com,38,Toulouse,2024-02-21,3401.31,Actif
+56,Julie,Dupont,julie.dupont@email.com,40,Toulouse,2025-09-02,4328.85,Premium
+57,Claire,Dubois,claire.dubois@email.com,77,Strasbourg,2025-06-21,2961.05,Inactif
+58,David,Richard,david.richard@email.com,22,  Strasbourg  ,2024-03-22,863.83,Inactif
+59,Jean,Laurent,jean.laurent@email.com,56,Rennes,2024-03-25,4951.49,Actif
+60,Laura,Simon,laura.simon@email.com,22,  Nice  ,2025-08-26,4684.05,Premium
+61,Pierre,Dubois,pierre.dubois@email.com,35,  Lyon  ,2024-11-02,2723.65,Inactif
+62,David,Moreau,david.moreau@email.com,69,Strasbourg,2025-04-04,626.04,Actif
+63,Marie,Simon,marie.simon@email.com,65,Paris,2025-01-30,1681.9,Actif
+64,Luc,Dubois,luc.dubois@email.com,67,Bordeaux,2023-11-01,4611.99,Premium
+65,Emma,Leroy,emma.leroy@email.com,62,  Nice  ,2025-06-22,4353.58,Premium
+66,David,Martin,david.martin@email.com,30,Nantes,2025-04-28,1152.23,Actif
+67,Pierre,Bernard,pierre.bernard@email.com,52,  Lille  ,2024-02-19,2840.28,Premium
+68,David,Thomas,david.thomas@email.com,68,Nice,2024-03-11,3935.32,Actif
+69,Julie,Thomas,julie.thomas@email.com,42,Lille,2024-02-07,2266.51,Actif
+70,Anne,Martin,anne.martin@email.com,20,  Paris  ,2024-06-27,4722.86,Premium
+71,Claire,Durand,claire.durand@email.com,62,Marseille,2024-12-29,1533.28,Premium
+72,Marc,Durand,marc.durand@email.com,33,Nantes,2024-07-03,1866.51,Actif
+73,David,Martin,david.martin@email.com,42,  Lyon  ,2024-08-03,3601.1,Actif
+74,Marc,Petit,marc.petit@email.com,32,  Lille  ,2024-12-10,3824.15,Inactif
+75,Thomas,Martin,thomas.martin@email.com,51,Nice,2025-04-14,2930.49,Actif
+76,Sophie,Simon,sophie.simon@email.com,47,Toulouse,2024-06-01,1045.54,Premium
+77,Thomas,Martin,thomas.martin@email.com,25,Paris,2025-10-27,2197.39,Inactif
+78,Thomas,Moreau,thomasmoreauemail.com,63,Bordeaux,2025-09-11,2325.68,Actif
+79,Thomas,Richard,thomas.richard@email.com,103,Lille,2025-10-21,3959.82,Inactif
+80,Marie,Dubois,marie.dubois@email.com,30,Marseille,2024-10-12,4137.76,Inactif
+81,Laura,Lefebvre,laura.lefebvre@email.com,39,Nantes,2024-11-21,3977.96,Premium
+82,Thomas,Laurent,thomas.laurent@email.com,41,Marseille,2024-09-11,4579.38,Inactif
+83,Thomas,Dupont,thomas.dupont@email.com,46,  Bordeaux  ,2025-08-31,3904.74,Premium
+84,Anne,Robert,anne.robert@email.com,78,  Lille  ,2025-10-20,3112.03,Actif
+85,Emma,Moreau,emma.moreau@email.com,33,Toulouse,2025-03-22,976.25,Actif
+86,Jean,Laurent,,27,Rennes,2024-10-24,1620.91,Premium
+87,Jean,Dupont,jean.dupont@email.com,20,Paris,2024-11-04,2552.47,Inactif
+88,Pierre,Bernard,pierre.bernard@email.com,40,Toulouse,2025-03-02,361.91,Premium
+89,Thomas,Richard,thomas.richard@email.com,24,Rennes,2024-12-31,3542.95,Actif
+90,Laura,Martin,laura.martin@email.com,66,Lyon,2025-03-25,2929.11,Actif
+91,Sophie,Thomas,sophie.thomas@email.com,58,,2024-01-11,3285.28,Actif
+92,Paul,Laurent,paul.laurent@email.com,24,Strasbourg,2025-06-17,242.16,Inactif
+93,Laura,Leroy,laura.leroy@email.com,24,Nice,2024-03-04,3576.5,Inactif
+94,Sophie,Dubois,sophie.dubois@email.com,21,,2024-12-27,801.16,Inactif
+95,Jean,Moreau,jean.moreau@email.com,80,Marseille,2025-02-09,2279.67,Inactif
+96,Julie,Leroy,julie.leroy@email.com,22,Nantes,2024-03-25,4299.46,Actif
+97,Thomas,Moreau,thomas.moreau@email.com,78,Nantes,2024-11-29,3038.43,Actif
+98,Pierre,Simon,pierre.simon@email.com,79,  Rennes  ,2024-10-17,3859.66,Actif
+99,Sophie,Durand,sophie.durand@email.com,71,Lyon,2024-12-15,4635.74,Inactif
+100,Claire,Laurent,claire.laurent@email.com,74,Paris,2025-05-11,1247.72,Inactif
+101,Thomas,Lefebvre,thomas.lefebvre@email.com,37,Lyon,2025-06-06,1758.3,Actif
+102,Claire,Richard,claire.richard@email.com,61,Lille,2024-10-15,2727.13,Premium
+103,Paul,Petit,paul.petit@email.com,23,Lille,2024-08-17,337.07,Inactif
+104,Claire,Laurent,claire.laurent@email.com,71,Rennes,2024-08-17,493.17,Inactif
+105,David,Moreau,david.moreau@email.com,68,Rennes,2024-11-15,1141.42,Inactif
+106,David,Bernard,david.bernard@email.com,30,Nice,2025-06-14,591.21,Premium
+107,Marie,Lefebvre,marie.lefebvre@email.com,38,Nantes,2024-11-19,2204.61,Inactif
+108,Marc,Thomas,marc.thomas@email.com,23,Paris,2024-10-23,335.23,Inactif
+109,Laura,Petit,laura.petit@email.com,77,Nantes,2025-05-12,3004.61,Premium
+110,Marc,Simon,marc.simon@email.com,77,  Rennes  ,2025-07-13,1411.32,Actif
+111,Nicolas,Durand,nicolas.durand@email.com,32,Bordeaux,2025-09-12,3778.43,Inactif
+112,Nicolas,Petit,nicolas.petit@email.com,66,Toulouse,2024-03-22,479.92,Premium
+113,Marc,Simon,marc.simon@email.com,80,Lille,2024-08-20,3711.64,Actif
+114,Anne,Bernard,anne.bernard@email.com,59,Strasbourg,2024-02-28,1606.22,Actif
+115,Thomas,Dubois,thomas.dubois@email.com,42,  Nice  ,2024-12-08,4767.33,Actif
+116,Luc,Dubois,luc.dubois@email.com,70,Toulouse,2025-06-06,2564.59,Actif
+117,David,Dubois,,36,Marseille,2024-06-27,925.41,Actif
+118,David,Martin,david.martin@email.com,38,  Toulouse  ,2024-07-22,794.45,Inactif
+119,Marie,Durand,marie.durand@email.com,48,Bordeaux,2025-09-08,4209.2,Premium
+120,Paul,Moreau,paulmoreauemail.com,57,Lille,2025-04-24,4438.32,Actif
+121,David,Durand,david.durand@email.com,30,Strasbourg,2025-10-06,2096.14,Premium
+122,Laura,Laurent,laura.laurent@email.com,48,Strasbourg,2024-06-28,3133.79,Premium
+123,Marc,Moreau,marc.moreau@email.com,70,Lille,2024-11-16,1306.8,Premium
+124,Claire,Lefebvre,claire.lefebvre@email.com,51,Bordeaux,2023-11-23,700.58,Premium
+125,Nicolas,Martin,nicolas.martin@email.com,33,Strasbourg,2024-09-13,4721.76,Premium
+126,Laura,Robert,laura.robert@email.com,56,  Strasbourg  ,2025-01-06,3699.02,Premium
+127,Thomas,Martin,thomas.martin@email.com,45,  Strasbourg  ,2024-04-11,815.38,Actif
+128,Jean,Dupont,jean.dupont@email.com,37,Lyon,2024-02-12,3783.55,Inactif
+129,Pierre,Petit,pierre.petit@email.com,60,Strasbourg,2023-12-07,3428.5,Inactif
+130,Marc,Simon,marc.simon@email.com,79,  Nantes  ,2025-04-25,144.72,Actif
+131,Julie,Laurent,julie.laurent@email.com,48,Rennes,2024-08-27,4639.12,Premium
+132,Julie,Dupont,julie.dupont@email.com,60,Lyon,2024-12-17,1606.41,Actif
+133,Paul,Durand,paul.durand@email.com,28,  Paris  ,2025-05-07,4464.6,Actif
+134,Claire,Thomas,claire.thomas@email.com,51,Nantes,2024-10-25,1297.67,Inactif
+135,Marie,Richard,marie.richard@email.com,100,Paris,2025-09-04,4275.86,Actif
+136,Luc,Bernard,luc.bernard@email.com,24,Bordeaux,2024-01-06,1927.15,Actif
+137,Julie,Richard,julie.richard@email.com,72,Paris,2025-04-24,3280.55,Inactif
+138,Marc,Richard,marc.richard@email.com,74,  Bordeaux  ,2025-03-08,2412.83,Inactif
+139,Marc,Leroy,marc.leroy@email.com,79,Marseille,2025-04-27,3346.71,Inactif
+140,Marc,Martin,marc.martin@email.com,46,Nice,2025-07-25,4863.7,Inactif
+141,Claire,Leroy,claire.leroy@email.com,68,Nantes,2024-04-20,4158.09,Premium
+142,Thomas,Martin,thomas.martin@email.com,44,Nice,2025-07-09,134.61,Actif
+143,Nicolas,Richard,nicolas.richard@email.com,44,Nantes,2025-01-12,206.33,Inactif
+144,Anne,Richard,anne.richard@email.com,66,Nantes,2024-11-26,1124.78,Actif
+145,Claire,Thomas,claire.thomas@email.com,34,Nice,2025-02-15,1040.17,Premium
+146,Emma,Bernard,emma.bernard@email.com,63,Rennes,2024-10-10,3694.26,Actif
+147,Laura,Dubois,laura.dubois@email.com,50,  Lille  ,2024-06-04,3864.32,Actif
+148,Sophie,Dupont,sophie.dupont@email.com,29,Rennes,2024-02-14,4716.84,Premium
+149,Marie,Moreau,marie.moreau@email.com,24,Paris,2024-09-28,290.96,Premium
+150,Luc,Leroy,lucleroyemail.com,61,Nice,2024-05-05,518.53,Inactif
+151,Sophie,Lefebvre,sophie.lefebvre@email.com,23,Rennes,2025-08-04,2391.63,Premium
+152,Pierre,Dupont,pierre.dupont@email.com,65,Nantes,2024-06-02,535.66,Inactif
+153,Emma,Lefebvre,emma.lefebvre@email.com,56,Toulouse,2024-03-29,3626.71,Premium
+154,Thomas,Robert,thomas.robert@email.com,42,Toulouse,2024-11-25,3325.13,Premium
+155,Anne,Dupont,anne.dupont@email.com,72,Marseille,2024-11-19,4792.76,Premium
+156,Pierre,Simon,pierresimonemail.com,38,Bordeaux,2024-06-05,555.12,Actif
+157,Marc,Thomas,marc.thomas@email.com,78,  Strasbourg  ,2025-02-02,1916.08,Actif
+158,Thomas,Martin,thomas.martin@email.com,16,Lyon,2023-11-01,3363.38,Inactif
+159,Pierre,Lefebvre,pierre.lefebvre@email.com,38,,2024-12-02,3346.96,Premium
+160,Sophie,Durand,sophie.durand@email.com,70,Lyon,2025-06-24,743.25,Premium
+161,Luc,Leroy,luc.leroy@email.com,25,Strasbourg,2025-10-28,1627.97,Actif
+162,Laura,Dupont,laura.dupont@email.com,62,  Nice  ,2024-05-19,3832.82,Inactif
+163,Thomas,Simon,thomas.simon@email.com,26,Strasbourg,2025-03-15,3898.66,Actif
+164,Marie,Lefebvre,marie.lefebvre@email.com,26,Rennes,2024-06-20,1832.23,Premium
+165,Laura,Thomas,laurathomasemail.com,69,Lyon,2025-01-27,3192.94,Inactif
+166,Jean,Durand,jean.durand@email.com,35,Paris,2025-09-17,4688.0,Inactif
+167,Thomas,Moreau,thomas.moreau@email.com,61,Toulouse,2025-07-05,187.13,Premium
+168,Anne,Richard,anne.richard@email.com,74,  Bordeaux  ,2024-08-11,3188.95,Actif
+169,Marc,Martin,marc.martin@email.com,78,Rennes,2024-08-17,2672.91,Inactif
+170,Laura,Robert,laurarobertemail.com,31,  Lille  ,2025-08-25,3884.74,Premium
+171,Paul,Laurent,paul.laurent@email.com,28,Lyon,2024-11-03,1599.23,Premium
+172,David,Robert,david.robert@email.com,56,Strasbourg,2025-06-30,2530.45,Actif
+173,Nicolas,Robert,nicolas.robert@email.com,13,,2024-02-26,252.5,Actif
+174,Emma,Leroy,emma.leroy@email.com,57,  Marseille  ,2025-05-01,3125.96,Inactif
+175,Emma,Moreau,emma.moreau@email.com,78,Nantes,2025-04-14,2159.56,Actif
+176,Emma,Simon,emma.simon@email.com,76,  Lyon  ,2025-07-04,1497.21,Actif
+177,Marc,Dupont,marc.dupont@email.com,21,Paris,2025-03-25,1948.5,Actif
+178,Julie,Laurent,julie.laurent@email.com,39,Bordeaux,2024-12-17,3348.77,Inactif
+179,Pierre,Dupont,pierre.dupont@email.com,42,  Lille  ,2024-03-04,689.24,Inactif
+180,Jean,Robert,jean.robert@email.com,43,Bordeaux,2025-04-06,866.58,Inactif
+181,Claire,Thomas,clairethomasemail.com,34,Paris,2025-07-02,3073.31,Inactif
+182,Emma,Richard,emma.richard@email.com,40,  Marseille  ,2025-02-05,4940.81,Actif
+183,Marc,Robert,marc.robert@email.com,33,Toulouse,2024-12-05,4157.77,Inactif
+184,Julie,Martin,julie.martin@email.com,41,Lyon,2024-04-04,1082.48,Actif
+185,Jean,Richard,jean.richard@email.com,28,Toulouse,2024-08-15,708.09,Premium
+186,Marc,Martin,marc.martin@email.com,40,Nantes,2024-02-06,3349.6,Inactif
+187,David,Richard,david.richard@email.com,56,Nantes,2024-05-05,965.24,Actif
+188,Thomas,Laurent,thomas.laurent@email.com,71,Nice,2025-02-01,3381.7,Premium
+189,Emma,Dupont,emma.dupont@email.com,113,  Nice  ,2024-01-02,637.87,Actif
+190,Anne,Moreau,anne.moreau@email.com,32,Paris,2024-07-22,3956.07,Actif
+191,David,Dupont,david.dupont@email.com,38,Marseille,2024-08-24,3913.66,Actif
+192,David,Robert,davidrobertemail.com,45,Toulouse,2025-06-21,4901.82,Actif
+193,Anne,Dubois,anne.dubois@email.com,21,  Toulouse  ,2024-08-04,3863.31,Actif
+194,Julie,Dubois,julie.dubois@email.com,57,Toulouse,2024-02-28,962.25,Actif
+195,Marc,Thomas,marc.thomas@email.com,21,Strasbourg,2023-11-22,618.88,Inactif
+196,Sophie,Robert,sophie.robert@email.com,38,  Rennes  ,2025-08-07,3836.98,Actif
+197,Pierre,Martin,pierre.martin@email.com,59,Bordeaux,2025-06-26,746.43,Actif
+198,Nicolas,Petit,nicolas.petit@email.com,53,  Marseille  ,2024-11-07,4820.42,Actif
+199,Jean,Lefebvre,jeanlefebvreemail.com,60,Rennes,2024-06-21,1786.67,Inactif
+200,Julie,Dubois,julie.dubois@email.com,42,Lille,2024-04-28,3605.54,Actif
+201,Marie,Dupont,marie.dupont@email.com,40,Strasbourg,2025-09-15,4777.23,Premium
+202,Anne,Thomas,anne.thomas@email.com,62,Nantes,2025-05-27,1640.61,Premium
+203,Jean,Durand,jean.durand@email.com,64,Nice,2025-01-02,753.69,Premium
+204,Luc,Petit,luc.petit@email.com,67,Strasbourg,2025-03-27,2900.54,Actif
+205,Pierre,Thomas,pierre.thomas@email.com,47,Paris,2024-07-25,3104.63,Premium
+206,Emma,Simon,emma.simon@email.com,51,  Bordeaux  ,2023-12-26,4626.92,Inactif
+207,Nicolas,Robert,nicolas.robert@email.com,20,Nice,2025-03-07,1976.84,Inactif
+208,David,Moreau,david.moreau@email.com,32,Strasbourg,2023-11-08,2862.29,Premium
+209,Julie,Dupont,julie.dupont@email.com,79,Lyon,2024-01-16,1675.53,Premium
+210,Anne,Lefebvre,annelefebvreemail.com,59,  Lille  ,2025-03-21,500.31,Premium
+211,Luc,Laurent,luc.laurent@email.com,22,Rennes,2025-01-07,909.24,Actif
+212,Laura,Dubois,laura.dubois@email.com,31,Nice,2024-06-01,2123.78,Actif
+213,Sophie,Simon,sophie.simon@email.com,25,Rennes,2025-09-10,4963.85,Premium
+214,Pierre,Moreau,pierre.moreau@email.com,37,,2024-06-06,3542.57,Actif
+215,Luc,Dubois,luc.dubois@email.com,67,Paris,2025-07-27,2944.21,Inactif
+216,Paul,Bernard,paul.bernard@email.com,79,Paris,2024-01-05,2247.22,Premium
+217,Julie,Thomas,julie.thomas@email.com,22,Lille,2024-08-12,2182.41,Premium
+218,Claire,Richard,,51,  Nantes  ,2024-11-18,4315.28,Premium
+219,Claire,Robert,claire.robert@email.com,32,Strasbourg,2024-01-07,3903.08,Actif
+220,Laura,Moreau,,34,Marseille,2025-07-26,346.09,Inactif
+221,Thomas,Bernard,thomas.bernard@email.com,34,Toulouse,2025-02-07,729.82,Inactif
+222,Pierre,Durand,pierre.durand@email.com,39,Lyon,2024-11-30,4113.23,Actif
+223,Jean,Petit,,96,Rennes,2025-06-14,960.71,Actif
+224,Claire,Robert,claire.robert@email.com,48,Nantes,2025-06-09,4688.82,Actif
+225,Luc,Robert,luc.robert@email.com,27,  Lyon  ,2024-04-11,4251.38,Actif
+226,Luc,Robert,luc.robert@email.com,32,  Lille  ,2025-10-13,4025.06,Inactif
+227,David,Laurent,david.laurent@email.com,55,Strasbourg,2025-07-19,1523.92,Actif
+228,Anne,Laurent,anne.laurent@email.com,32,Paris,2025-07-20,3105.29,Actif
+229,Paul,Richard,paul.richard@email.com,20,Strasbourg,2025-10-19,4898.5,Inactif
+230,Julie,Richard,julie.richard@email.com,28,Rennes,2025-08-27,4874.15,Premium
+231,Emma,Leroy,emma.leroy@email.com,34,Marseille,2024-09-01,2540.36,Actif
+232,Paul,Petit,paul.petit@email.com,53,Toulouse,2024-01-05,497.51,Inactif
+233,Jean,Laurent,jean.laurent@email.com,115,,2024-07-03,4240.21,Actif
+234,Marie,Leroy,marie.leroy@email.com,76,  Toulouse  ,2025-03-23,2779.34,Inactif
+235,Paul,Leroy,,66,Lille,2024-07-08,4071.28,Inactif
+236,Luc,Petit,luc.petit@email.com,47,Lyon,2024-05-14,2294.71,Inactif
+237,David,Robert,david.robert@email.com,56,  Nice  ,2024-06-12,4011.95,Actif
+238,Emma,Moreau,emma.moreau@email.com,67,,2024-07-16,4158.41,Inactif
+239,Laura,Laurent,laura.laurent@email.com,61,  Nantes  ,2025-04-04,904.35,Actif
+240,Laura,Thomas,laura.thomas@email.com,59,Rennes,2025-10-30,514.51,Actif
+241,Marie,Lefebvre,marie.lefebvre@email.com,63,Marseille,2023-11-30,1486.13,Inactif
+242,Luc,Leroy,luc.leroy@email.com,22,  Lille  ,2025-09-07,4816.96,Inactif
+243,Marc,Durand,,71,Marseille,2025-10-25,2116.87,Actif
+244,Thomas,Martin,thomas.martin@email.com,28,Nice,2025-07-13,3772.31,Premium
+245,Claire,Robert,claire.robert@email.com,62,Paris,2024-08-24,4669.23,Premium
+246,Luc,Richard,luc.richard@email.com,118,Nantes,2024-11-15,4826.83,Inactif
+247,Claire,Moreau,claire.moreau@email.com,65,Nice,2024-09-30,1173.11,Actif
+248,Anne,Thomas,anne.thomas@email.com,41,Lyon,2024-09-11,1467.87,Premium
+249,Pierre,Richard,pierre.richard@email.com,29,  Paris  ,2024-03-01,4087.11,Actif
+250,Pierre,Durand,pierre.durand@email.com,54,  Nice  ,2024-10-15,2505.3,Premium
+251,Marie,Petit,marie.petit@email.com,35,Bordeaux,2024-07-28,2459.52,Actif
+252,David,Simon,david.simon@email.com,71,Marseille,2024-03-30,1626.83,Inactif
+253,Claire,Laurent,claire.laurent@email.com,65,  Toulouse  ,2024-01-08,3760.69,Inactif
+254,Thomas,Robert,thomas.robert@email.com,75,Nantes,2024-12-30,328.04,Inactif
+255,Paul,Dupont,paul.dupont@email.com,44,Toulouse,2024-08-16,3046.49,Actif
+256,David,Petit,david.petit@email.com,31,Marseille,2024-09-13,2990.25,Premium
+257,Pierre,Thomas,pierrethomasemail.com,72,  Nice  ,2023-11-22,2895.56,Premium
+258,Pierre,Lefebvre,pierre.lefebvre@email.com,98,  Marseille  ,2024-09-20,2907.77,Inactif
+259,Anne,Bernard,anne.bernard@email.com,80,Paris,2025-03-11,1443.76,Premium
+260,Emma,Laurent,,34,  Marseille  ,2025-06-25,4866.67,Premium
+261,Claire,Laurent,claire.laurent@email.com,31,Strasbourg,2025-10-21,1144.17,Actif
+262,Marie,Simon,marie.simon@email.com,28,Nice,2024-04-01,2413.0,Premium
+263,Jean,Dubois,jean.dubois@email.com,38,Paris,2025-05-24,1038.73,Premium
+264,Paul,Simon,paul.simon@email.com,40,Nantes,2024-02-09,1246.7,Inactif
+265,Paul,Moreau,paul.moreau@email.com,37,  Toulouse  ,2025-01-26,3934.77,Actif
+266,Sophie,Thomas,sophie.thomas@email.com,77,Marseille,2025-03-05,2487.71,Premium
+267,Marc,Bernard,marc.bernard@email.com,54,Bordeaux,2025-06-26,3685.7,Premium
+268,Laura,Durand,laura.durand@email.com,74,Nantes,2024-07-20,3730.81,Inactif
+269,Sophie,Dubois,sophie.dubois@email.com,56,Strasbourg,2024-10-05,2680.59,Actif
+270,Jean,Simon,jeansimonemail.com,47,Lille,2024-03-05,2941.5,Inactif
+271,Marc,Robert,marc.robert@email.com,32,Marseille,2025-07-21,669.14,Actif
+272,Marie,Dubois,marie.dubois@email.com,36,Bordeaux,2024-03-26,3358.77,Actif
+273,Luc,Durand,luc.durand@email.com,58,Toulouse,2024-09-17,335.5,Inactif
+274,Claire,Laurent,claire.laurent@email.com,42,  Marseille  ,2025-10-23,4547.72,Inactif
+275,Jean,Thomas,jean.thomas@email.com,67,Rennes,2024-09-15,775.6,Premium
+276,Julie,Durand,julie.durand@email.com,36,Bordeaux,2024-01-30,1255.38,Actif
+277,Pierre,Thomas,pierre.thomas@email.com,50,Marseille,2024-10-01,1048.17,Premium
+278,Emma,Martin,emma.martin@email.com,26,Toulouse,2025-05-20,2240.56,Premium
+279,Luc,Petit,luc.petit@email.com,14,Nantes,2024-05-15,2410.79,Premium
+280,Jean,Thomas,jeanthomasemail.com,77,Bordeaux,2025-03-27,3334.68,Premium
+281,Marc,Petit,marc.petit@email.com,58,Nice,2023-12-14,2678.85,Inactif
+282,Laura,Laurent,laura.laurent@email.com,75,Strasbourg,2023-11-09,3698.24,Inactif
+283,Marie,Dupont,marie.dupont@email.com,65,Toulouse,2024-12-23,4317.84,Premium
+284,Emma,Leroy,emmaleroyemail.com,22,Nantes,2024-02-29,4024.59,Actif
+285,Sophie,Martin,sophie.martin@email.com,78,Marseille,2025-06-05,4485.93,Premium
+286,Jean,Bernard,jean.bernard@email.com,55,Paris,2024-01-11,176.46,Inactif
+287,Thomas,Thomas,thomas.thomas@email.com,27,Rennes,2024-07-06,1805.3,Actif
+288,Paul,Lefebvre,paul.lefebvre@email.com,25,Marseille,2024-12-05,903.42,Premium
+289,Claire,Bernard,clairebernardemail.com,31,Marseille,2025-07-24,4204.68,Actif
+290,Luc,Moreau,luc.moreau@email.com,67,Lille,2025-03-20,2688.44,Inactif
+291,Paul,Thomas,paul.thomas@email.com,45,Rennes,2024-04-06,4109.85,Inactif
+292,Luc,Thomas,luc.thomas@email.com,51,Rennes,2025-02-10,4124.9,Inactif
+293,Luc,Simon,luc.simon@email.com,42,  Nice  ,2025-08-17,1174.31,Inactif
+294,Luc,Bernard,luc.bernard@email.com,38,  Lille  ,2024-01-14,4839.41,Actif
+295,Emma,Simon,emmasimonemail.com,76,Bordeaux,2025-09-08,2379.32,Inactif
+296,Sophie,Bernard,sophie.bernard@email.com,12,  Strasbourg  ,2024-04-20,1933.81,Inactif
+297,Paul,Thomas,paul.thomas@email.com,74,  Strasbourg  ,2025-08-05,1445.99,Inactif
+298,Sophie,Simon,sophie.simon@email.com,64,Rennes,2023-11-19,3151.84,Actif
+299,Nicolas,Robert,nicolas.robert@email.com,57,Nice,2025-04-13,2401.44,Inactif
+300,Anne,Leroy,anneleroyemail.com,57,Lille,2025-04-05,1700.01,Inactif
+301,Pierre,Lefebvre,pierre.lefebvre@email.com,37,Toulouse,2024-05-05,648.14,Inactif
+302,Anne,Simon,anne.simon@email.com,59,Strasbourg,2025-02-04,4519.25,Premium
+303,Julie,Martin,julie.martin@email.com,20,  Marseille  ,2025-10-03,288.7,Premium
+304,David,Dupont,,77,Nantes,2025-02-07,1739.16,Inactif
+305,Claire,Leroy,claire.leroy@email.com,40,Paris,2025-10-01,1935.37,Inactif
+306,Anne,Dupont,anne.dupont@email.com,34,Paris,2024-11-29,1649.87,Premium
+307,Emma,Dubois,emma.dubois@email.com,64,Nice,2025-03-25,3683.76,Inactif
+308,Emma,Thomas,emma.thomas@email.com,70,Nantes,2025-02-18,1198.88,Premium
+309,David,Robert,david.robert@email.com,70,Nice,2024-03-19,3261.79,Inactif
+310,Laura,Moreau,laura.moreau@email.com,78,Nice,2024-02-14,1044.35,Premium
+311,Claire,Moreau,claire.moreau@email.com,78,Rennes,2024-07-29,187.42,Premium
+312,Paul,Robert,paul.robert@email.com,18,  Bordeaux  ,2024-09-22,2956.02,Inactif
+313,Julie,Martin,julie.martin@email.com,50,  Lyon  ,2024-08-25,4527.26,Premium
+314,Luc,Durand,lucdurandemail.com,60,Nantes,2025-01-26,2138.54,Premium
+315,David,Laurent,david.laurent@email.com,40,Toulouse,2024-09-26,1936.98,Premium
+316,Nicolas,Thomas,nicolas.thomas@email.com,27,Strasbourg,2024-12-22,2735.69,Inactif
+317,Luc,Simon,luc.simon@email.com,51,Lyon,2023-11-28,3104.91,Inactif
+318,Paul,Dupont,paul.dupont@email.com,76,Marseille,2025-04-08,3192.83,Inactif
+319,Sophie,Dubois,sophie.dubois@email.com,75,Lyon,2024-08-05,3712.16,Inactif
+320,Luc,Martin,luc.martin@email.com,61,Paris,2024-08-08,176.08,Premium
+321,Thomas,Martin,thomas.martin@email.com,61,Nantes,2025-08-05,4890.86,Inactif
+322,Anne,Moreau,anne.moreau@email.com,64,  Paris  ,2025-03-20,4579.06,Premium
+323,Marie,Durand,marie.durand@email.com,70,Lille,2024-11-18,4679.35,Inactif
+324,Pierre,Thomas,pierre.thomas@email.com,25,Marseille,2025-01-13,3780.14,Inactif
+325,Marc,Thomas,marc.thomas@email.com,43,Rennes,2025-05-05,4965.51,Inactif
+326,Sophie,Dupont,sophie.dupont@email.com,18,Strasbourg,2025-08-14,50.38,Premium
+327,Pierre,Thomas,pierre.thomas@email.com,72,Nice,2024-10-27,4335.91,Premium
+328,Sophie,Simon,sophie.simon@email.com,22,Nantes,2025-07-03,1801.31,Inactif
+329,Anne,Martin,anne.martin@email.com,24,Nice,2025-02-17,2667.85,Actif
+330,Laura,Dupont,,105,Lille,2025-06-01,333.24,Premium
+331,Julie,Leroy,julie.leroy@email.com,18,Nantes,2025-09-10,2111.44,Actif
+332,Jean,Richard,jean.richard@email.com,42,Lyon,2024-04-16,2708.01,Actif
+333,Julie,Leroy,julieleroyemail.com,74,Marseille,2025-09-03,4398.73,Actif
+334,Jean,Lefebvre,jean.lefebvre@email.com,57,Bordeaux,2023-12-29,2776.15,Actif
+335,David,Dupont,david.dupont@email.com,31,  Lille  ,2025-01-05,2420.87,Actif
+336,Pierre,Lefebvre,pierre.lefebvre@email.com,30,Strasbourg,2024-07-09,2400.7,Inactif
+337,Sophie,Durand,sophie.durand@email.com,65,,2025-07-04,4035.05,Inactif
+338,Marie,Martin,marie.martin@email.com,58,  Nice  ,2024-06-14,2477.96,Inactif
+339,Julie,Laurent,julie.laurent@email.com,69,Toulouse,2025-05-28,2860.74,Inactif
+340,Marie,Thomas,marie.thomas@email.com,31,Paris,2024-11-08,2424.34,Inactif
+341,Julie,Laurent,julie.laurent@email.com,57,Marseille,2024-02-11,4288.16,Premium
+342,Pierre,Laurent,pierre.laurent@email.com,49,Marseille,2025-06-13,2909.08,Actif
+343,Nicolas,Simon,nicolassimonemail.com,100,Strasbourg,2025-01-26,2174.21,Actif
+344,Claire,Lefebvre,claire.lefebvre@email.com,43,  Strasbourg  ,2024-06-29,4312.9,Actif
+345,David,Simon,david.simon@email.com,39,Lille,2024-07-23,2374.68,Premium
+346,Luc,Durand,luc.durand@email.com,34,Lille,2024-09-18,4810.24,Actif
+347,Jean,Simon,jean.simon@email.com,61,Rennes,2025-08-22,1198.01,Actif
+348,Sophie,Simon,sophie.simon@email.com,117,Rennes,2024-01-06,1512.79,Actif
+349,Sophie,Bernard,sophie.bernard@email.com,53,Paris,2024-08-17,3620.71,Premium
+350,Marc,Dupont,marc.dupont@email.com,31,,2024-03-20,3694.86,Premium
+351,Jean,Thomas,jean.thomas@email.com,26,Nantes,2025-07-22,4059.17,Premium
+352,Thomas,Martin,thomas.martin@email.com,63,  Rennes  ,2024-06-18,3328.52,Inactif
+353,Claire,Thomas,claire.thomas@email.com,77,Marseille,2025-08-13,4734.78,Actif
+354,Sophie,Moreau,sophie.moreau@email.com,19,  Marseille  ,2025-04-04,3297.42,Premium
+355,Emma,Durand,emma.durand@email.com,76,Lyon,2025-03-23,2846.6,Actif
+356,Julie,Richard,julie.richard@email.com,40,Paris,2024-10-11,1143.13,Premium
+357,Thomas,Durand,thomas.durand@email.com,31,Toulouse,2024-06-26,1681.05,Premium
+358,Thomas,Martin,thomas.martin@email.com,57,Bordeaux,2023-11-25,939.03,Inactif
+359,Laura,Dupont,laura.dupont@email.com,28,Paris,2024-03-05,385.58,Inactif
+360,Julie,Bernard,julie.bernard@email.com,27,Bordeaux,2025-07-26,1169.66,Actif
+361,Marc,Laurent,marc.laurent@email.com,47,Strasbourg,2024-05-15,4092.74,Actif
+362,Emma,Robert,emma.robert@email.com,72,Paris,2025-05-13,2010.3,Inactif
+363,Marie,Petit,marie.petit@email.com,53,Lyon,2025-08-03,1404.17,Premium
+364,Paul,Durand,paul.durand@email.com,74,Lille,2025-10-10,3002.15,Actif
+365,Anne,Dubois,anne.dubois@email.com,49,Toulouse,2024-01-01,1162.6,Actif
+366,Paul,Bernard,paul.bernard@email.com,78,Toulouse,2023-11-05,2045.14,Actif
+367,Pierre,Bernard,pierre.bernard@email.com,54,Toulouse,2023-12-11,1444.37,Actif
+368,Julie,Lefebvre,julie.lefebvre@email.com,23,Strasbourg,2024-05-29,220.88,Inactif
+369,Julie,Robert,julie.robert@email.com,67,  Strasbourg  ,2025-08-12,2802.86,Actif
+370,Anne,Lefebvre,anne.lefebvre@email.com,35,Lille,2023-11-24,1602.65,Inactif
+371,Luc,Lefebvre,luc.lefebvre@email.com,55,Paris,2024-11-06,4913.95,Premium
+372,Thomas,Leroy,thomas.leroy@email.com,34,Nantes,2024-04-19,75.24,Inactif
+373,Julie,Martin,julie.martin@email.com,55,Strasbourg,2024-10-27,2362.29,Premium
+374,Laura,Durand,laura.durand@email.com,39,  Bordeaux  ,2025-04-30,872.77,Actif
+375,Jean,Durand,jean.durand@email.com,69,Nice,2024-01-29,3466.19,Actif
+376,Sophie,Robert,sophie.robert@email.com,61,  Strasbourg  ,2025-10-20,2748.74,Inactif
+377,Paul,Dupont,paul.dupont@email.com,46,  Strasbourg  ,2025-07-06,4177.98,Premium
+378,Anne,Petit,anne.petit@email.com,56,Lille,2024-10-04,195.92,Premium
+379,David,Martin,david.martin@email.com,73,Marseille,2024-08-27,3799.17,Inactif
+380,Sophie,Richard,sophie.richard@email.com,56,Marseille,2023-12-23,4527.41,Actif
+381,Laura,Simon,laura.simon@email.com,49,Nice,2025-05-05,3594.21,Inactif
+382,Anne,Martin,,52,Toulouse,2024-05-02,1590.38,Premium
+383,Anne,Durand,anne.durand@email.com,66,Nice,2023-11-29,1723.48,Actif
+384,David,Moreau,david.moreau@email.com,48,Bordeaux,2025-08-22,2868.27,Actif
+385,Luc,Durand,lucdurandemail.com,64,  Lyon  ,2024-01-01,857.25,Inactif
+386,Thomas,Thomas,thomas.thomas@email.com,51,Paris,2024-03-08,4227.16,Inactif
+387,Julie,Moreau,julie.moreau@email.com,49,Paris,2024-04-07,2300.97,Inactif
+388,Julie,Lefebvre,julie.lefebvre@email.com,29,  Paris  ,2025-04-10,270.88,Premium
+389,Thomas,Thomas,thomasthomasemail.com,34,Rennes,2025-02-12,4376.67,Inactif
+390,Emma,Richard,emma.richard@email.com,69,Nantes,2025-09-08,1380.15,Inactif
+391,Julie,Dubois,julie.dubois@email.com,40,Lyon,2024-10-14,3901.55,Actif
+392,David,Dupont,david.dupont@email.com,56,Lille,2025-02-02,3616.82,Premium
+393,Marc,Thomas,marc.thomas@email.com,65,Rennes,2023-11-28,3703.41,Inactif
+394,Claire,Moreau,claire.moreau@email.com,73,  Paris  ,2025-03-04,4445.12,Premium
+395,Emma,Bernard,emmabernardemail.com,59,Rennes,2025-07-05,2258.78,Inactif
+396,Laura,Moreau,laura.moreau@email.com,62,Rennes,2024-05-07,2527.85,Inactif
+397,Paul,Dubois,paul.dubois@email.com,62,Marseille,2024-06-20,3355.66,Inactif
+398,Pierre,Martin,pierre.martin@email.com,52,Nantes,2025-06-09,3482.97,Actif
+399,Emma,Leroy,emma.leroy@email.com,49,Rennes,2025-03-30,2597.03,Premium
+400,Marie,Martin,marie.martin@email.com,49,Nice,2024-02-13,3163.5,Actif
+401,Paul,Petit,paul.petit@email.com,23,Nice,2025-02-05,158.86,Actif
+402,Emma,Durand,emma.durand@email.com,41,Bordeaux,2024-05-03,4066.7,Premium
+403,Marie,Petit,marie.petit@email.com,72,  Rennes  ,2024-08-01,2550.38,Actif
+404,Luc,Richard,luc.richard@email.com,65,Lyon,2024-04-01,2181.0,Actif
+405,Jean,Dubois,jean.dubois@email.com,23,Lille,2025-02-16,4850.32,Inactif
+406,Marie,Lefebvre,marielefebvreemail.com,84,Rennes,2023-11-04,2523.93,Actif
+407,Sophie,Robert,sophie.robert@email.com,79,  Strasbourg  ,2025-10-22,4947.12,Actif
+408,Sophie,Laurent,sophie.laurent@email.com,45,Nantes,2024-11-28,2031.1,Inactif
+409,David,Simon,david.simon@email.com,72,Lille,2024-05-31,4537.69,Premium
+410,Emma,Petit,emma.petit@email.com,75,Bordeaux,2024-02-19,3180.45,Inactif
+411,Pierre,Leroy,pierre.leroy@email.com,63,Nice,2025-05-25,4673.23,Premium
+412,Thomas,Lefebvre,thomas.lefebvre@email.com,27,Lyon,2023-12-07,2356.77,Premium
+413,Luc,Lefebvre,luc.lefebvre@email.com,58,Nice,2024-09-03,3492.57,Inactif
+414,Emma,Martin,emma.martin@email.com,34,Lille,2024-01-14,4591.19,Premium
+415,David,Leroy,david.leroy@email.com,19,Strasbourg,2024-12-20,4837.69,Premium
+416,Marie,Richard,marie.richard@email.com,38,Nantes,2025-06-27,1467.88,Premium
+417,Thomas,Dupont,thomas.dupont@email.com,68,Rennes,2024-07-05,4081.95,Premium
+418,Jean,Bernard,jean.bernard@email.com,39,Marseille,2024-11-17,3251.09,Premium
+419,Marie,Dupont,,79,Paris,2025-09-18,3124.92,Inactif
+420,Marc,Simon,marc.simon@email.com,77,Lyon,2025-01-28,2829.56,Premium
+421,Marie,Robert,marie.robert@email.com,65,Paris,2025-09-10,4706.56,Inactif
+422,Marc,Dubois,marc.dubois@email.com,35,  Marseille  ,2024-05-25,2255.51,Actif
+423,Pierre,Petit,pierre.petit@email.com,64,  Toulouse  ,2023-12-23,404.02,Inactif
+424,Anne,Laurent,anne.laurent@email.com,71,Toulouse,2024-01-24,1374.96,Actif
+425,Marie,Leroy,marie.leroy@email.com,56,Lille,2024-03-11,3513.57,Actif
+426,Jean,Dubois,jean.dubois@email.com,57,Bordeaux,2023-12-16,649.44,Inactif
+427,Claire,Petit,claire.petit@email.com,35,Lille,2024-10-27,2465.14,Actif
+428,Luc,Dubois,lucduboisemail.com,23,Nice,2024-06-08,1611.25,Inactif
+429,Thomas,Martin,thomas.martin@email.com,44,Nice,2023-12-04,1664.45,Actif
+430,Jean,Durand,jean.durand@email.com,26,  Rennes  ,2024-04-05,639.88,Actif
+431,Jean,Laurent,jean.laurent@email.com,18,  Nantes  ,2025-05-31,700.72,Actif
+432,Emma,Leroy,emma.leroy@email.com,74,Paris,2024-11-30,4842.48,Premium
+433,Emma,Dupont,emma.dupont@email.com,30,Paris,2025-09-10,4333.15,Inactif
+434,Jean,Thomas,jeanthomasemail.com,42,Marseille,2024-01-13,2251.66,Inactif
+435,Jean,Lefebvre,jean.lefebvre@email.com,64,Paris,2025-07-05,1399.27,Inactif
+436,Claire,Petit,claire.petit@email.com,41,Lyon,2024-10-19,4566.09,Actif
+437,David,Martin,david.martin@email.com,59,Strasbourg,2024-09-07,2071.66,Premium
+438,Sophie,Martin,sophie.martin@email.com,41,Bordeaux,2024-08-25,3113.26,Inactif
+439,Thomas,Leroy,thomas.leroy@email.com,48,Toulouse,2024-06-28,980.9,Actif
+440,Pierre,Thomas,pierre.thomas@email.com,63,Paris,2023-11-08,815.27,Actif
+441,Claire,Dubois,claire.dubois@email.com,58,Lille,2025-05-28,3245.84,Premium
+442,Pierre,Bernard,pierre.bernard@email.com,76,  Toulouse  ,2024-10-03,2770.56,Inactif
+443,Emma,Dubois,emma.dubois@email.com,66,Bordeaux,2024-07-07,2617.89,Inactif
+444,Jean,Dupont,jean.dupont@email.com,46,Marseille,2023-12-22,1609.87,Inactif
+445,Sophie,Durand,sophie.durand@email.com,61,  Lille  ,2024-03-05,3565.51,Actif
+446,Sophie,Lefebvre,sophie.lefebvre@email.com,58,Lyon,2024-03-30,1976.95,Inactif
+447,Thomas,Durand,thomasdurandemail.com,46,Toulouse,2024-07-18,1683.65,Inactif
+448,Marc,Petit,marc.petit@email.com,66,Strasbourg,2024-08-14,1546.45,Inactif
+449,Marc,Bernard,marc.bernard@email.com,21,Marseille,2024-12-26,2192.23,Premium
+450,Sophie,Durand,sophie.durand@email.com,22,Paris,2025-02-22,644.06,Actif
+451,Sophie,Moreau,sophie.moreau@email.com,20,Toulouse,2024-05-06,4842.48,Actif
+452,Claire,Bernard,clairebernardemail.com,69,Lille,2024-03-18,1494.13,Premium
+453,David,Robert,david.robert@email.com,93,Bordeaux,2025-07-04,597.47,Actif
+454,Jean,Martin,jean.martin@email.com,81,Strasbourg,2025-07-10,3857.04,Inactif
+455,Claire,Robert,clairerobertemail.com,31,Paris,2025-02-26,1387.94,Actif
+456,Emma,Martin,emmamartinemail.com,58,Nice,2024-09-24,765.37,Actif
+457,Anne,Durand,anne.durand@email.com,57,Nantes,2025-05-05,3271.75,Inactif
+458,Anne,Thomas,anne.thomas@email.com,75,Lyon,2025-06-23,1416.02,Inactif
+459,Pierre,Petit,pierre.petit@email.com,58,Lille,2024-02-22,4289.08,Actif
+460,Marc,Martin,marc.martin@email.com,43,Bordeaux,2025-06-09,3918.22,Actif
+461,David,Thomas,david.thomas@email.com,58,Nice,2024-05-11,2391.14,Premium
+462,David,Thomas,david.thomas@email.com,57,  Lyon  ,2024-09-06,399.07,Inactif
+463,Nicolas,Bernard,nicolas.bernard@email.com,20,  Rennes  ,2025-07-25,59.93,Actif
+464,Sophie,Dubois,sophie.dubois@email.com,42,Nice,2024-01-04,2531.83,Premium
+465,Laura,Robert,laura.robert@email.com,110,  Toulouse  ,2024-09-25,2964.57,Actif
+466,Emma,Petit,emma.petit@email.com,63,Marseille,2024-05-24,4271.87,Actif
+467,Jean,Durand,jean.durand@email.com,62,Rennes,2024-12-08,2326.84,Premium
+468,Luc,Dupont,luc.dupont@email.com,64,  Nantes  ,2025-03-05,1554.38,Premium
+469,Sophie,Petit,sophie.petit@email.com,19,Rennes,2025-08-22,4551.29,Inactif
+470,Anne,Moreau,anne.moreau@email.com,30,Nantes,2025-01-09,4651.57,Actif
+471,Jean,Bernard,jean.bernard@email.com,63,  Nantes  ,2024-09-17,3905.94,Inactif
+472,Marie,Robert,marie.robert@email.com,34,Toulouse,2025-08-08,2519.21,Premium
+473,Paul,Leroy,paulleroyemail.com,78,Toulouse,2025-03-22,2190.31,Actif
+474,Claire,Durand,claire.durand@email.com,79,Paris,2023-12-04,1972.23,Actif
+475,Sophie,Richard,sophie.richard@email.com,86,Lyon,2024-04-16,1415.02,Inactif
+476,Laura,Martin,laura.martin@email.com,54,Paris,2024-04-02,4713.09,Actif
+477,Jean,Thomas,jean.thomas@email.com,57,Nantes,2025-02-20,93.61,Premium
+478,Marc,Leroy,marc.leroy@email.com,77,  Lille  ,2023-12-17,1260.35,Actif
+479,Claire,Dubois,claire.dubois@email.com,65,Nantes,2025-01-30,1839.03,Premium
+480,Marc,Durand,marc.durand@email.com,20,  Rennes  ,2024-11-07,2087.76,Premium
+481,Thomas,Lefebvre,thomas.lefebvre@email.com,30,Paris,2024-11-23,3135.35,Inactif
+482,Laura,Dubois,laura.dubois@email.com,71,Toulouse,2024-01-19,1846.59,Inactif
+483,Thomas,Laurent,thomas.laurent@email.com,71,Paris,2024-01-01,3587.86,Actif
+484,Marie,Dupont,marie.dupont@email.com,80,Paris,2024-05-17,4619.92,Actif
+485,Luc,Laurent,luc.laurent@email.com,64,Marseille,2025-01-02,3369.23,Premium
+486,Claire,Laurent,claire.laurent@email.com,111,  Paris  ,2025-03-29,2819.59,Actif
+487,Claire,Durand,claire.durand@email.com,36,Nice,2024-08-26,3341.73,Inactif
+488,Jean,Lefebvre,jean.lefebvre@email.com,73,Marseille,2024-12-21,1034.54,Inactif
+489,Pierre,Lefebvre,pierre.lefebvre@email.com,62,Bordeaux,2025-07-30,1092.67,Inactif
+490,Sophie,Dupont,sophie.dupont@email.com,27,  Lyon  ,2025-09-08,2638.03,Premium
+491,Emma,Laurent,emma.laurent@email.com,36,Lille,2024-11-05,198.99,Inactif
+492,Marie,Dubois,marie.dubois@email.com,49,Strasbourg,2025-06-12,2415.88,Premium
+493,Paul,Dupont,paul.dupont@email.com,49,Nantes,2023-12-01,351.53,Inactif
+494,Claire,Dubois,claire.dubois@email.com,24,Strasbourg,2025-02-27,4111.97,Inactif
+495,David,Thomas,david.thomas@email.com,37,Paris,2025-01-01,3415.47,Premium
+496,Jean,Martin,jean.martin@email.com,42,Toulouse,2025-05-26,1009.32,Premium
+497,Sophie,Martin,sophie.martin@email.com,45,,2025-01-07,770.97,Premium
+498,Marc,Martin,marcmartinemail.com,98,  Lyon  ,2025-05-10,2932.93,Actif
+499,Pierre,Simon,pierre.simon@email.com,65,  Nantes  ,2025-08-08,2186.43,Premium
+500,Julie,Petit,julie.petit@email.com,28,  Nantes  ,2024-01-21,1589.75,Premium
+501,Pierre,Moreau,pierre.moreau@email.com,61,Rennes,2024-09-06,322.35,Inactif
+502,Pierre,Richard,pierre.richard@email.com,43,Rennes,2025-05-18,1202.67,Actif
+503,Julie,Lefebvre,julie.lefebvre@email.com,56,Lyon,2023-11-05,1543.54,Inactif
+504,Nicolas,Dubois,nicolas.dubois@email.com,43,Nice,2024-11-18,2228.16,Premium
+505,Jean,Leroy,jean.leroy@email.com,36,Bordeaux,2024-06-03,3750.62,Premium
+506,Sophie,Simon,sophie.simon@email.com,62,Toulouse,2025-04-10,2784.6,Inactif
+507,Marc,Dubois,marc.dubois@email.com,71,Lyon,2024-09-17,987.83,Premium
+508,Laura,Moreau,laura.moreau@email.com,51,Nice,2025-07-26,3772.56,Actif
+509,Claire,Durand,claire.durand@email.com,62,,2025-02-02,2554.21,Premium
+510,Claire,Robert,claire.robert@email.com,28,Toulouse,2024-02-16,938.74,Actif
+511,Anne,Leroy,anne.leroy@email.com,61,Nice,2025-07-07,1616.55,Inactif
+512,Nicolas,Robert,nicolas.robert@email.com,39,  Strasbourg  ,2024-02-28,996.31,Premium
+513,Jean,Lefebvre,jean.lefebvre@email.com,44,Lille,2025-04-12,723.15,Premium
+514,David,Laurent,david.laurent@email.com,32,Paris,2025-10-01,3040.01,Inactif
+515,Pierre,Moreau,pierre.moreau@email.com,55,  Bordeaux  ,2025-01-10,1392.19,Premium
+516,Claire,Durand,claire.durand@email.com,33,  Rennes  ,2024-03-25,2984.48,Inactif
+517,Julie,Laurent,julie.laurent@email.com,85,Strasbourg,2025-10-10,2229.31,Inactif
+518,Paul,Leroy,paul.leroy@email.com,32,  Nantes  ,2023-12-25,2529.44,Inactif
+519,Luc,Bernard,,34,Lille,2024-10-29,2871.87,Inactif
+520,Laura,Moreau,laura.moreau@email.com,43,Nice,2024-04-06,888.77,Premium
+521,Marie,Dubois,marie.dubois@email.com,41,  Lyon  ,2025-06-10,1848.26,Inactif
+522,Paul,Moreau,paul.moreau@email.com,47,  Toulouse  ,2024-08-12,4224.07,Inactif
+523,Jean,Laurent,jean.laurent@email.com,23,Rennes,2024-01-02,3832.67,Inactif
+524,Julie,Lefebvre,julie.lefebvre@email.com,58,Paris,2025-02-02,3761.21,Actif
+525,Sophie,Laurent,sophie.laurent@email.com,33,  Marseille  ,2024-03-08,3546.08,Premium
+526,Luc,Thomas,luc.thomas@email.com,60,  Marseille  ,2025-08-21,3703.56,Premium
+527,Anne,Dubois,anneduboisemail.com,54,Bordeaux,2023-12-01,516.49,Premium
+528,Marc,Durand,marc.durand@email.com,21,Paris,2025-03-14,3252.96,Actif
+529,Luc,Durand,luc.durand@email.com,23,  Paris  ,2025-02-08,4940.72,Inactif
+530,Emma,Lefebvre,emma.lefebvre@email.com,47,Nantes,2024-07-05,4107.75,Actif
+531,Claire,Martin,claire.martin@email.com,59,  Bordeaux  ,2025-06-18,2307.13,Inactif
+532,Claire,Durand,claire.durand@email.com,61,Lyon,2025-02-11,2675.41,Inactif
+533,Claire,Robert,claire.robert@email.com,64,Paris,2024-10-13,685.64,Premium
+534,Luc,Dubois,lucduboisemail.com,75,Bordeaux,2024-07-06,2227.61,Premium
+535,Emma,Dupont,emma.dupont@email.com,27,Nice,2024-06-06,1169.29,Actif
+536,Sophie,Leroy,sophie.leroy@email.com,75,Nice,2025-09-21,2903.56,Actif
+537,Luc,Dupont,luc.dupont@email.com,42,Marseille,2025-08-27,969.3,Actif
+538,Thomas,Lefebvre,thomas.lefebvre@email.com,88,Lyon,2024-06-09,3444.81,Inactif
+539,Julie,Simon,julie.simon@email.com,76,Lille,2024-10-21,4256.86,Premium
+540,Sophie,Leroy,sophie.leroy@email.com,73,Toulouse,2024-07-23,1871.64,Actif
+541,Luc,Simon,luc.simon@email.com,19,Lille,2025-09-24,3865.92,Premium
+542,Claire,Dupont,claire.dupont@email.com,67,Toulouse,2025-03-31,886.21,Actif
+543,Anne,Dupont,anne.dupont@email.com,68,Marseille,2025-10-16,3400.34,Inactif
+544,Marc,Moreau,marc.moreau@email.com,24,Toulouse,2024-12-21,1677.49,Inactif
+545,Laura,Richard,laura.richard@email.com,75,,2025-07-28,4509.66,Inactif
+546,Marie,Richard,marie.richard@email.com,69,  Marseille  ,2024-11-17,4664.29,Premium
+547,Pierre,Lefebvre,,27,Strasbourg,2024-01-12,3407.28,Inactif
+548,Marc,Dubois,marc.dubois@email.com,66,Lille,2023-12-28,2871.83,Inactif
+549,Marie,Robert,marie.robert@email.com,46,Bordeaux,2024-10-14,2258.24,Actif
+550,Paul,Petit,paul.petit@email.com,55,Marseille,2025-04-26,948.06,Actif
+551,Thomas,Leroy,thomas.leroy@email.com,75,Lyon,2025-05-02,2976.01,Actif
+552,David,Robert,david.robert@email.com,38,Bordeaux,2025-05-02,2678.5,Actif
+553,Sophie,Richard,sophie.richard@email.com,43,  Toulouse  ,2025-10-01,4971.93,Actif
+554,Laura,Simon,laura.simon@email.com,22,  Nice  ,2025-03-06,1237.28,Inactif
+555,Luc,Robert,luc.robert@email.com,75,  Paris  ,2025-01-20,3173.42,Inactif
+556,Julie,Martin,julie.martin@email.com,63,Rennes,2025-02-19,890.61,Inactif
+557,Claire,Petit,claire.petit@email.com,35,Lyon,2025-07-04,584.62,Actif
+558,Nicolas,Dupont,nicolas.dupont@email.com,28,Lyon,2024-01-17,3009.75,Premium
+559,Anne,Robert,anne.robert@email.com,77,  Rennes  ,2024-07-12,2441.64,Actif
+560,Marc,Dubois,marc.dubois@email.com,22,Strasbourg,2023-12-28,752.52,Premium
+561,Marie,Dubois,marie.dubois@email.com,43,Toulouse,2025-09-26,4608.09,Premium
+562,Sophie,Robert,sophie.robert@email.com,79,Rennes,2025-08-18,197.6,Actif
+563,Sophie,Richard,sophie.richard@email.com,79,,2025-01-09,3890.46,Premium
+564,Thomas,Dupont,thomas.dupont@email.com,106,Paris,2024-04-29,264.35,Actif
+565,Thomas,Leroy,thomas.leroy@email.com,28,Lyon,2024-11-15,653.38,Premium
+566,Thomas,Leroy,thomas.leroy@email.com,75,Nantes,2023-11-14,2957.9,Inactif
+567,Pierre,Richard,pierre.richard@email.com,37,Rennes,2025-08-07,889.05,Actif
+568,Paul,Bernard,paulbernardemail.com,27,Bordeaux,2024-01-02,4126.66,Inactif
+569,Laura,Dupont,laura.dupont@email.com,47,Lyon,2024-12-31,1859.31,Actif
+570,Marie,Laurent,marie.laurent@email.com,61,Toulouse,2025-01-02,4843.89,Actif
+571,Thomas,Petit,thomas.petit@email.com,78,Nantes,2024-04-10,2846.54,Premium
+572,Emma,Dubois,emma.dubois@email.com,33,Paris,2025-04-03,1122.63,Premium
+573,Marc,Dubois,marc.dubois@email.com,21,Nice,2023-12-12,2462.44,Premium
+574,Nicolas,Richard,,36,Toulouse,2025-09-30,1975.06,Actif
+575,Anne,Richard,anne.richard@email.com,30,Nice,2024-03-01,2207.83,Inactif
+576,David,Dubois,davidduboisemail.com,23,  Lille  ,2024-12-01,3948.27,Premium
+577,Anne,Leroy,anne.leroy@email.com,37,Nice,2024-11-03,2519.97,Actif
+578,Nicolas,Petit,nicolas.petit@email.com,58,  Rennes  ,2025-06-25,218.68,Inactif
+579,Pierre,Dubois,pierre.dubois@email.com,57,Lyon,2025-08-13,3278.26,Premium
+580,Julie,Moreau,julie.moreau@email.com,77,Bordeaux,2025-01-07,2051.83,Inactif
+581,Paul,Simon,paul.simon@email.com,19,Nice,2024-01-02,79.83,Inactif
+582,Paul,Robert,paul.robert@email.com,40,Rennes,2025-10-14,2946.52,Premium
+583,Julie,Martin,julie.martin@email.com,55,Marseille,2024-07-18,3131.63,Premium
+584,Claire,Bernard,claire.bernard@email.com,48,,2024-09-03,4049.77,Inactif
+585,Laura,Petit,laura.petit@email.com,78,Strasbourg,2024-04-11,4907.6,Inactif
+586,Marc,Simon,marc.simon@email.com,68,  Lyon  ,2024-09-17,2337.15,Premium
+587,Sophie,Petit,sophie.petit@email.com,18,Lille,2024-12-13,535.12,Premium
+588,Paul,Petit,paul.petit@email.com,24,  Toulouse  ,2024-10-10,1808.42,Premium
+589,Jean,Simon,jean.simon@email.com,64,Rennes,2025-07-08,3561.35,Inactif
+590,Laura,Dubois,laura.dubois@email.com,27,Marseille,2024-11-28,826.81,Actif
+591,Jean,Dubois,jean.dubois@email.com,76,Lyon,2024-11-21,794.89,Inactif
+592,David,Thomas,david.thomas@email.com,59,Lille,2025-04-23,2548.52,Actif
+593,Marie,Lefebvre,marie.lefebvre@email.com,79,Lyon,2024-07-16,580.64,Inactif
+594,Marie,Richard,marie.richard@email.com,73,Bordeaux,2024-11-22,4611.04,Inactif
+595,Jean,Robert,jean.robert@email.com,47,Lille,2025-09-19,3936.18,Inactif
+596,Pierre,Petit,pierre.petit@email.com,18,Strasbourg,2025-03-14,1122.05,Premium
+597,Julie,Moreau,julie.moreau@email.com,36,Strasbourg,2025-08-16,2850.56,Actif
+598,Jean,Simon,jean.simon@email.com,23,Paris,2024-09-24,1066.15,Actif
+599,Julie,Bernard,julie.bernard@email.com,41,Lille,2025-06-12,3942.28,Premium
+600,Luc,Robert,luc.robert@email.com,63,Nantes,2025-09-23,4733.69,Actif
+601,Claire,Moreau,claire.moreau@email.com,47,Nice,2024-09-01,64.82,Inactif
+602,Marc,Dupont,marc.dupont@email.com,24,Nantes,2024-04-26,4652.46,Inactif
+603,Anne,Thomas,anne.thomas@email.com,25,  Rennes  ,2024-07-28,374.03,Premium
+604,Nicolas,Richard,nicolas.richard@email.com,72,Strasbourg,2024-09-01,3301.76,Inactif
+605,Marc,Lefebvre,marc.lefebvre@email.com,23,Nice,2025-10-13,2752.74,Inactif
+606,Luc,Lefebvre,luc.lefebvre@email.com,23,Marseille,2023-12-06,3170.15,Inactif
+607,Claire,Thomas,claire.thomas@email.com,56,Bordeaux,2025-08-21,3655.9,Actif
+608,Emma,Martin,emma.martin@email.com,44,Nice,2025-03-02,2029.74,Actif
+609,Jean,Richard,jean.richard@email.com,19,Nice,2024-09-24,2711.43,Inactif
+610,Laura,Richard,laura.richard@email.com,51,Lyon,2023-12-11,4630.69,Actif
+611,Thomas,Leroy,thomas.leroy@email.com,73,Strasbourg,2023-11-12,2215.86,Premium
+612,Claire,Durand,claire.durand@email.com,71,Lille,2024-04-30,59.65,Actif
+613,Jean,Dubois,jean.dubois@email.com,28,Bordeaux,2024-05-19,3875.94,Actif
+614,Claire,Lefebvre,claire.lefebvre@email.com,26,Strasbourg,2024-03-30,1852.65,Premium
+615,Marie,Lefebvre,marie.lefebvre@email.com,22,Lille,2023-11-15,1832.57,Inactif
+616,Marie,Durand,marie.durand@email.com,36,  Bordeaux  ,2025-05-30,1909.39,Premium
+617,Anne,Moreau,anne.moreau@email.com,28,Lyon,2024-06-16,3872.99,Premium
+618,Pierre,Thomas,pierrethomasemail.com,39,Toulouse,2025-06-27,4819.09,Actif
+619,Sophie,Durand,sophiedurandemail.com,23,Nantes,2024-12-15,2299.48,Premium
+620,Claire,Robert,claire.robert@email.com,45,Rennes,2024-12-13,1720.56,Inactif
+621,Luc,Dupont,luc.dupont@email.com,56,Bordeaux,2025-01-13,1389.85,Inactif
+622,Laura,Moreau,laura.moreau@email.com,36,Strasbourg,2025-10-28,4000.57,Inactif
+623,Jean,Dubois,jean.dubois@email.com,75,Marseille,2025-05-21,2495.71,Premium
+624,Pierre,Robert,pierre.robert@email.com,33,Lille,2025-03-11,4349.0,Premium
+625,Julie,Martin,julie.martin@email.com,78,Nice,2024-12-08,835.33,Actif
+626,Thomas,Leroy,thomas.leroy@email.com,80,Rennes,2024-05-28,680.16,Premium
+627,David,Laurent,david.laurent@email.com,78,  Rennes  ,2024-08-16,2379.79,Premium
+628,Luc,Lefebvre,luc.lefebvre@email.com,15,Nantes,2025-02-10,4616.07,Actif
+629,Luc,Dubois,luc.dubois@email.com,79,Bordeaux,2025-03-03,1911.22,Inactif
+630,Julie,Thomas,julie.thomas@email.com,36,Lyon,2025-10-17,4953.21,Actif
+631,Laura,Petit,laura.petit@email.com,59,Toulouse,2025-03-17,123.49,Inactif
+632,Marc,Lefebvre,marc.lefebvre@email.com,70,Nantes,2024-05-30,1091.06,Premium
+633,Anne,Bernard,anne.bernard@email.com,48,  Strasbourg  ,2024-11-19,1421.81,Actif
+634,Jean,Richard,jeanrichardemail.com,31,Strasbourg,2024-12-11,1468.32,Actif
+635,Emma,Lefebvre,emma.lefebvre@email.com,45,  Strasbourg  ,2025-01-13,1895.12,Actif
+636,Marc,Robert,marc.robert@email.com,77,Rennes,2023-11-24,618.61,Actif
+637,Thomas,Laurent,thomas.laurent@email.com,77,Lyon,2024-02-04,580.38,Actif
+638,Pierre,Simon,pierre.simon@email.com,78,Strasbourg,2025-02-04,1080.43,Inactif
+639,Jean,Dubois,jean.dubois@email.com,26,Bordeaux,2025-03-15,2387.66,Actif
+640,Anne,Moreau,anne.moreau@email.com,55,Lille,2025-07-24,3509.32,Inactif
+641,Julie,Robert,julie.robert@email.com,80,Paris,2025-07-08,3495.71,Actif
+642,Julie,Lefebvre,julie.lefebvre@email.com,47,Bordeaux,2024-03-20,333.91,Premium
+643,Emma,Simon,emmasimonemail.com,73,  Bordeaux  ,2025-10-09,105.47,Inactif
+644,Marc,Moreau,marc.moreau@email.com,49,Paris,2025-07-21,1963.18,Premium
+645,Jean,Martin,jean.martin@email.com,38,Lille,2024-01-20,1357.89,Premium
+646,Luc,Lefebvre,luc.lefebvre@email.com,74,Paris,2024-01-05,3507.07,Inactif
+647,Jean,Bernard,jean.bernard@email.com,43,  Nantes  ,2025-09-20,4424.91,Premium
+648,Marie,Laurent,marie.laurent@email.com,57,Rennes,2025-09-22,431.77,Premium
+649,Marie,Martin,marie.martin@email.com,22,  Nantes  ,2025-09-04,3671.09,Inactif
+650,Luc,Laurent,luc.laurent@email.com,20,Toulouse,2024-06-16,3288.42,Inactif
+651,Marie,Thomas,marie.thomas@email.com,75,  Rennes  ,2025-09-20,3115.52,Inactif
+652,Nicolas,Laurent,nicolas.laurent@email.com,69,Nice,2025-04-11,406.96,Inactif
+653,Thomas,Dupont,thomas.dupont@email.com,37,  Lille  ,2025-07-26,1132.12,Inactif
+654,Luc,Moreau,luc.moreau@email.com,76,Marseille,2023-12-09,2047.46,Actif
+655,Luc,Bernard,luc.bernard@email.com,19,Marseille,2025-03-19,1820.4,Actif
+656,David,Martin,david.martin@email.com,58,Nice,2025-01-06,4966.17,Actif
+657,Pierre,Dupont,pierre.dupont@email.com,65,Paris,2025-09-16,1871.38,Inactif
+658,Luc,Martin,luc.martin@email.com,50,Lille,2024-07-10,1232.47,Premium
+659,Marc,Dupont,marc.dupont@email.com,71,  Strasbourg  ,2024-05-27,4595.76,Actif
+660,Anne,Robert,anne.robert@email.com,19,Paris,2024-12-27,4491.11,Inactif
+661,Marc,Laurent,marc.laurent@email.com,22,Bordeaux,2024-04-29,204.62,Inactif
+662,David,Moreau,david.moreau@email.com,72,  Toulouse  ,2023-11-02,2719.29,Premium
+663,Sophie,Dupont,sophie.dupont@email.com,40,Bordeaux,2024-11-24,3545.62,Inactif
+664,Marie,Martin,marie.martin@email.com,13,Bordeaux,2024-06-29,1907.17,Actif
+665,Sophie,Durand,sophie.durand@email.com,21,Bordeaux,2025-09-03,1945.29,Actif
+666,Julie,Laurent,julie.laurent@email.com,53,Rennes,2025-03-12,2460.74,Inactif
+667,Luc,Dupont,luc.dupont@email.com,42,  Rennes  ,2025-04-27,1424.96,Actif
+668,Nicolas,Richard,nicolas.richard@email.com,70,Bordeaux,2023-11-17,306.45,Actif
+669,Thomas,Martin,thomas.martin@email.com,57,Paris,2024-02-17,209.74,Actif
+670,Nicolas,Simon,nicolas.simon@email.com,41,Bordeaux,2025-05-23,1741.27,Inactif
+671,Luc,Dubois,luc.dubois@email.com,33,Marseille,2025-04-28,2913.07,Actif
+672,Julie,Simon,julie.simon@email.com,22,Strasbourg,2025-03-26,3700.82,Premium
+673,Thomas,Petit,thomas.petit@email.com,51,  Rennes  ,2025-04-19,692.08,Inactif
+674,Marie,Dupont,marie.dupont@email.com,61,Nice,2024-06-26,3268.64,Actif
+675,Pierre,Leroy,pierre.leroy@email.com,58,Marseille,2025-06-11,3883.61,Actif
+676,Claire,Martin,claire.martin@email.com,37,Paris,2024-06-16,1842.74,Actif
+677,Thomas,Dupont,thomas.dupont@email.com,26,  Bordeaux  ,2025-01-01,4646.21,Actif
+678,Julie,Dupont,juliedupontemail.com,67,Toulouse,2024-12-16,2991.44,Premium
+679,Thomas,Dupont,thomas.dupont@email.com,80,Nantes,2025-03-10,3938.36,Premium
+680,Sophie,Martin,sophie.martin@email.com,77,Bordeaux,2024-03-15,4448.37,Actif
+681,Sophie,Simon,sophie.simon@email.com,49,Paris,2024-02-28,4808.12,Actif
+682,Pierre,Laurent,pierre.laurent@email.com,26,Strasbourg,2024-12-22,2671.62,Inactif
+683,Marie,Richard,marie.richard@email.com,30,  Strasbourg  ,2025-03-22,2182.05,Actif
+684,Thomas,Dupont,thomas.dupont@email.com,103,Nantes,2025-10-09,4989.53,Actif
+685,Anne,Martin,,53,Toulouse,2025-06-25,2508.94,Premium
+686,Thomas,Dubois,thomas.dubois@email.com,27,  Strasbourg  ,2024-03-22,269.8,Inactif
+687,David,Moreau,david.moreau@email.com,38,Strasbourg,2025-09-22,2410.75,Premium
+688,Jean,Lefebvre,jean.lefebvre@email.com,45,Strasbourg,2024-06-07,3383.51,Actif
+689,Julie,Lefebvre,julie.lefebvre@email.com,54,Lille,2024-06-19,155.42,Actif
+690,Emma,Petit,emma.petit@email.com,40,  Toulouse  ,2025-04-11,4883.31,Inactif
+691,Julie,Thomas,julie.thomas@email.com,25,Lille,2024-10-30,439.46,Inactif
+692,Sophie,Petit,sophie.petit@email.com,18,Paris,2025-07-01,486.18,Inactif
+693,Emma,Laurent,emma.laurent@email.com,22,Paris,2024-04-29,1920.68,Inactif
+694,David,Thomas,david.thomas@email.com,33,  Bordeaux  ,2023-12-20,2402.08,Premium
+695,Nicolas,Leroy,nicolas.leroy@email.com,74,Toulouse,2024-11-14,3300.09,Actif
+696,Claire,Moreau,claire.moreau@email.com,32,Nantes,2024-08-10,3366.86,Inactif
+697,Thomas,Martin,thomas.martin@email.com,65,Paris,2024-06-11,4725.26,Inactif
+698,Julie,Lefebvre,julie.lefebvre@email.com,51,  Toulouse  ,2024-11-08,1365.67,Premium
+699,Pierre,Laurent,pierre.laurent@email.com,24,Nice,2024-08-30,2660.45,Inactif
+700,Marc,Durand,marc.durand@email.com,45,Nice,2025-09-23,2388.33,Premium
+701,Claire,Robert,claire.robert@email.com,56,Paris,2023-12-10,1708.02,Actif
+702,Pierre,Bernard,pierrebernardemail.com,78,Lyon,2024-07-20,4433.32,Inactif
+703,Pierre,Bernard,pierre.bernard@email.com,22,  Rennes  ,2025-08-11,4474.72,Premium
+704,Pierre,Simon,pierre.simon@email.com,68,Strasbourg,2023-12-27,1699.71,Actif
+705,Nicolas,Moreau,nicolas.moreau@email.com,39,Nantes,2025-07-22,2488.28,Inactif
+706,David,Leroy,david.leroy@email.com,77,Nice,2024-09-26,4426.45,Inactif
+707,Julie,Martin,julie.martin@email.com,33,Marseille,2024-12-08,4963.68,Actif
+708,Nicolas,Richard,nicolas.richard@email.com,48,Marseille,2024-09-05,4041.05,Actif
+709,Luc,Richard,luc.richard@email.com,76,Strasbourg,2023-12-11,3475.0,Inactif
+710,Pierre,Bernard,pierre.bernard@email.com,27,Paris,2024-03-13,893.81,Premium
+711,Laura,Laurent,laura.laurent@email.com,22,Nice,2024-02-15,1377.47,Inactif
+712,Claire,Martin,claire.martin@email.com,73,Toulouse,2024-11-06,619.77,Actif
+713,Nicolas,Dupont,nicolas.dupont@email.com,71,Bordeaux,2024-09-12,3206.79,Premium
+714,Pierre,Leroy,pierre.leroy@email.com,53,Nantes,2025-04-15,1906.77,Inactif
+715,Paul,Simon,paul.simon@email.com,24,Rennes,2025-05-13,4345.83,Premium
+716,Julie,Petit,julie.petit@email.com,45,Toulouse,2024-07-09,2176.75,Actif
+717,Claire,Petit,claire.petit@email.com,21,Toulouse,2024-12-13,3309.75,Premium
+718,Anne,Laurent,anne.laurent@email.com,66,  Nice  ,2024-04-11,3236.33,Inactif
+719,Sophie,Petit,sophiepetitemail.com,51,Lyon,2025-08-09,4905.19,Actif
+720,Marc,Leroy,marc.leroy@email.com,71,Bordeaux,2025-09-20,3994.23,Inactif
+721,Emma,Petit,emma.petit@email.com,48,Bordeaux,2024-01-30,2351.18,Inactif
+722,Sophie,Lefebvre,sophie.lefebvre@email.com,27,Nantes,2024-05-31,487.39,Premium
+723,Nicolas,Dubois,nicolas.dubois@email.com,44,  Rennes  ,2024-04-21,1522.88,Actif
+724,Thomas,Laurent,thomas.laurent@email.com,56,Rennes,2023-11-27,1883.48,Premium
+725,Paul,Martin,paul.martin@email.com,51,  Paris  ,2025-06-24,2910.75,Premium
+726,Marc,Leroy,marcleroyemail.com,67,,2024-09-13,3458.68,Actif
+727,Paul,Dubois,paul.dubois@email.com,30,  Toulouse  ,2025-02-05,861.91,Inactif
+728,Anne,Thomas,anne.thomas@email.com,73,Toulouse,2025-09-30,3382.83,Actif
+729,Thomas,Dubois,thomas.dubois@email.com,36,Paris,2025-08-09,2046.31,Actif
+730,Luc,Leroy,luc.leroy@email.com,30,Nice,2024-04-18,4299.65,Premium
+731,Julie,Petit,julie.petit@email.com,42,Nantes,2024-04-19,3711.0,Actif
+732,Thomas,Dubois,thomas.dubois@email.com,70,Nice,2024-02-09,4823.14,Inactif
+733,Pierre,Dupont,pierredupontemail.com,104,Bordeaux,2025-10-03,4849.7,Premium
+734,Claire,Thomas,claire.thomas@email.com,52,Bordeaux,2024-12-27,4460.24,Inactif
+735,Marie,Martin,marie.martin@email.com,36,Paris,2025-07-16,4104.9,Actif
+736,David,Leroy,david.leroy@email.com,57,Marseille,2024-05-26,1162.24,Premium
+737,Emma,Richard,emma.richard@email.com,19,,2024-01-14,280.33,Actif
+738,Pierre,Martin,pierre.martin@email.com,18,Nice,2025-06-16,2838.02,Actif
+739,Pierre,Robert,pierre.robert@email.com,40,Lille,2025-05-23,538.92,Inactif
+740,Marie,Laurent,marie.laurent@email.com,94,Lyon,2025-04-08,963.59,Inactif
+741,Laura,Dubois,laura.dubois@email.com,24,Toulouse,2024-03-05,3362.29,Actif
+742,David,Durand,david.durand@email.com,40,  Paris  ,2025-08-28,3312.43,Premium
+743,Marc,Robert,marc.robert@email.com,37,Rennes,2025-10-09,460.76,Premium
+744,Nicolas,Petit,nicolas.petit@email.com,39,Paris,2025-06-14,1971.05,Inactif
+745,Jean,Robert,jean.robert@email.com,23,Nantes,2024-01-03,712.07,Inactif
+746,Anne,Bernard,anne.bernard@email.com,33,Paris,2025-09-07,4079.07,Inactif
+747,Pierre,Robert,pierre.robert@email.com,74,Paris,2025-05-14,3080.06,Inactif
+748,Marc,Bernard,marc.bernard@email.com,45,Lille,2025-10-10,1376.84,Actif
+749,Pierre,Laurent,pierre.laurent@email.com,51,Lyon,2024-05-17,1586.78,Premium
+750,Jean,Martin,jean.martin@email.com,47,Bordeaux,2024-01-23,2913.48,Premium
+751,Pierre,Bernard,pierrebernardemail.com,62,Paris,2024-11-16,4071.4,Premium
+752,Pierre,Martin,pierre.martin@email.com,37,Toulouse,2025-05-04,2471.51,Premium
+753,Jean,Petit,jean.petit@email.com,45,  Bordeaux  ,2025-08-09,4252.78,Inactif
+754,Anne,Martin,anne.martin@email.com,94,Lyon,2024-02-20,2269.17,Premium
+755,Paul,Dupont,paul.dupont@email.com,34,Strasbourg,2024-10-11,4214.58,Premium
+756,Claire,Durand,claire.durand@email.com,72,  Bordeaux  ,2024-06-26,3896.98,Inactif
+757,Marc,Lefebvre,marc.lefebvre@email.com,78,Lille,2024-07-28,4791.53,Actif
+758,Luc,Simon,lucsimonemail.com,23,Paris,2024-03-08,314.42,Premium
+759,Jean,Simon,jean.simon@email.com,66,Nantes,2024-02-22,1823.05,Premium
+760,Pierre,Thomas,pierre.thomas@email.com,78,Bordeaux,2024-04-22,1526.22,Actif
+761,Anne,Durand,anne.durand@email.com,46,Rennes,2025-06-23,2197.09,Premium
+762,Claire,Simon,claire.simon@email.com,18,Strasbourg,2024-08-26,3518.32,Actif
+763,Nicolas,Martin,nicolas.martin@email.com,30,Toulouse,2024-09-11,2527.49,Inactif
+764,Pierre,Dubois,pierre.dubois@email.com,53,Toulouse,2024-09-26,2366.2,Premium
+765,Anne,Dubois,anne.dubois@email.com,22,Nantes,2023-12-29,1161.25,Inactif
+766,Paul,Dupont,paul.dupont@email.com,50,Rennes,2023-11-21,4269.65,Actif
+767,Marc,Petit,marc.petit@email.com,63,Marseille,2025-09-26,1020.47,Actif
+768,Emma,Laurent,emma.laurent@email.com,80,  Marseille  ,2024-03-15,2234.2,Premium
+769,Nicolas,Lefebvre,nicolas.lefebvre@email.com,27,Bordeaux,2024-02-27,353.41,Inactif
+770,Nicolas,Martin,nicolas.martin@email.com,43,Paris,2024-09-15,357.79,Premium
+771,Laura,Simon,laura.simon@email.com,80,Marseille,2024-05-04,1689.99,Premium
+772,Jean,Durand,jean.durand@email.com,31,  Toulouse  ,2025-02-13,820.55,Inactif
+773,Jean,Bernard,jean.bernard@email.com,60,Toulouse,2025-10-26,4216.11,Actif
+774,Nicolas,Laurent,nicolas.laurent@email.com,79,Strasbourg,2025-10-08,4084.48,Inactif
+775,Claire,Leroy,claire.leroy@email.com,75,,2025-06-21,1701.93,Premium
+776,Claire,Lefebvre,claire.lefebvre@email.com,30,Lille,2025-03-31,2116.25,Premium
+777,Jean,Robert,jean.robert@email.com,20,Nantes,2024-12-03,292.79,Premium
+778,Marie,Robert,marie.robert@email.com,25,  Strasbourg  ,2025-02-18,4093.4,Premium
+779,Marie,Simon,marie.simon@email.com,37,Nice,2025-08-24,778.38,Inactif
+780,Luc,Dubois,luc.dubois@email.com,38,Strasbourg,2025-08-07,557.56,Premium
+781,Sophie,Bernard,sophie.bernard@email.com,23,Bordeaux,2025-01-20,3003.36,Premium
+782,Pierre,Thomas,pierre.thomas@email.com,30,Nice,2025-05-05,3451.92,Inactif
+783,Emma,Laurent,emma.laurent@email.com,26,Nantes,2025-03-23,3951.36,Actif
+784,Julie,Robert,julie.robert@email.com,26,Paris,2024-09-27,342.49,Premium
+785,Luc,Thomas,luc.thomas@email.com,60,  Rennes  ,2024-04-19,2424.75,Premium
+786,Luc,Durand,luc.durand@email.com,46,Nantes,2023-11-26,4658.45,Inactif
+787,Marie,Petit,marie.petit@email.com,27,Nantes,2025-06-10,3091.33,Actif
+788,David,Durand,david.durand@email.com,25,Bordeaux,2024-07-06,3390.33,Actif
+789,Luc,Martin,luc.martin@email.com,21,  Rennes  ,2023-10-31,1652.47,Actif
+790,Claire,Martin,claire.martin@email.com,30,  Rennes  ,2023-12-26,3370.62,Premium
+791,Paul,Durand,paul.durand@email.com,59,Strasbourg,2023-12-03,2015.27,Actif
+792,Pierre,Moreau,pierre.moreau@email.com,49,  Bordeaux  ,2024-06-06,1924.41,Premium
+793,Jean,Simon,jean.simon@email.com,37,Strasbourg,2024-02-23,3307.64,Actif
+794,Pierre,Laurent,pierre.laurent@email.com,53,  Lyon  ,2024-03-27,2606.14,Inactif
+795,Emma,Laurent,emma.laurent@email.com,64,Marseille,2025-05-20,995.52,Premium
+796,Emma,Richard,emmarichardemail.com,23,  Lille  ,2025-09-08,2952.24,Premium
+797,Marie,Simon,marie.simon@email.com,75,Toulouse,2024-07-26,1855.3,Actif
+798,Laura,Robert,laura.robert@email.com,46,Toulouse,2023-12-17,4262.6,Premium
+799,Thomas,Leroy,thomas.leroy@email.com,53,Strasbourg,2024-08-01,772.39,Inactif
+800,Julie,Bernard,julie.bernard@email.com,24,Lille,2024-09-10,1241.15,Premium
+801,Marc,Lefebvre,marc.lefebvre@email.com,28,Lille,2024-08-14,949.04,Premium
+802,Paul,Petit,paul.petit@email.com,80,  Lille  ,2023-11-27,3506.96,Inactif
+803,Luc,Martin,luc.martin@email.com,43,  Marseille  ,2025-10-07,2753.06,Inactif
+804,Laura,Petit,laura.petit@email.com,56,Marseille,2025-02-10,1181.49,Premium
+805,Claire,Dubois,claire.dubois@email.com,46,Bordeaux,2024-12-24,234.38,Premium
+806,David,Laurent,david.laurent@email.com,35,  Rennes  ,2025-07-02,2647.54,Inactif
+807,Luc,Petit,luc.petit@email.com,55,Bordeaux,2025-10-21,655.44,Actif
+808,Thomas,Laurent,thomas.laurent@email.com,65,Marseille,2025-01-17,2812.99,Actif
+809,Emma,Richard,emma.richard@email.com,39,Lyon,2023-11-09,3158.92,Inactif
+810,Thomas,Leroy,thomas.leroy@email.com,78,Lyon,2024-04-07,1692.97,Inactif
+811,Emma,Dupont,emmadupontemail.com,55,Paris,2025-04-07,2566.77,Actif
+812,Nicolas,Martin,nicolas.martin@email.com,108,Toulouse,2024-07-10,3375.77,Actif
+813,Pierre,Laurent,pierre.laurent@email.com,57,Strasbourg,2025-03-13,2681.8,Actif
+814,Nicolas,Petit,nicolas.petit@email.com,58,Rennes,2024-10-06,3327.97,Inactif
+815,Pierre,Dupont,pierre.dupont@email.com,56,  Strasbourg  ,2024-09-09,2172.97,Actif
+816,David,Lefebvre,david.lefebvre@email.com,73,Marseille,2024-11-30,3843.26,Actif
+817,Marc,Petit,marc.petit@email.com,40,Nantes,2024-07-03,3690.3,Premium
+818,Marc,Dubois,marc.dubois@email.com,44,Paris,2024-07-21,3833.04,Actif
+819,Pierre,Dupont,pierre.dupont@email.com,116,  Nice  ,2025-06-27,80.46,Premium
+820,Emma,Richard,emma.richard@email.com,55,Lille,2025-07-18,569.8,Actif
+821,Emma,Dupont,emma.dupont@email.com,77,Bordeaux,2025-04-19,739.65,Premium
+822,Paul,Thomas,paul.thomas@email.com,28,Marseille,2024-02-23,4584.89,Inactif
+823,Marc,Laurent,marc.laurent@email.com,18,Lyon,2023-12-26,1001.54,Inactif
+824,Anne,Dubois,anne.dubois@email.com,18,  Paris  ,2025-09-14,4621.46,Premium
+825,Paul,Moreau,paulmoreauemail.com,90,  Toulouse  ,2025-08-29,3596.81,Actif
+826,Claire,Dupont,claire.dupont@email.com,61,Rennes,2025-07-16,1609.7,Premium
+827,Thomas,Thomas,thomas.thomas@email.com,61,Bordeaux,2024-05-04,4546.76,Actif
+828,Sophie,Dubois,sophie.dubois@email.com,76,Strasbourg,2025-07-17,2187.85,Inactif
+829,Thomas,Dubois,thomasduboisemail.com,74,Lille,2024-11-27,2716.46,Actif
+830,Claire,Simon,claire.simon@email.com,57,Lyon,2025-02-16,1772.2,Actif
+831,Thomas,Moreau,thomas.moreau@email.com,50,Marseille,2025-10-03,663.04,Actif
+832,Jean,Leroy,jean.leroy@email.com,34,Lyon,2025-05-14,2495.31,Actif
+833,Thomas,Petit,thomas.petit@email.com,73,Rennes,2025-07-10,3679.32,Actif
+834,David,Bernard,david.bernard@email.com,32,Bordeaux,2023-12-12,2093.06,Actif
+835,Emma,Richard,emma.richard@email.com,68,Toulouse,2025-08-04,2076.17,Premium
+836,Julie,Bernard,julie.bernard@email.com,69,  Nice  ,2025-10-30,3249.55,Inactif
+837,David,Moreau,david.moreau@email.com,58,Marseille,2024-03-17,3427.7,Inactif
+838,Marc,Bernard,marc.bernard@email.com,17,Nantes,2025-07-16,4900.91,Premium
+839,David,Bernard,davidbernardemail.com,52,,2024-07-31,3035.29,Actif
+840,Luc,Robert,luc.robert@email.com,48,Paris,2023-11-14,1485.4,Inactif
+841,Marc,Moreau,marc.moreau@email.com,41,Paris,2024-11-21,1467.39,Inactif
+842,Anne,Lefebvre,anne.lefebvre@email.com,59,Toulouse,2023-12-08,4191.08,Actif
+843,Nicolas,Robert,nicolas.robert@email.com,59,Toulouse,2025-09-22,1571.15,Inactif
+844,Nicolas,Simon,nicolas.simon@email.com,59,Nice,2025-06-01,801.91,Actif
+845,Sophie,Martin,sophie.martin@email.com,34,Rennes,2024-08-04,3803.49,Premium
+846,Sophie,Dupont,sophie.dupont@email.com,45,Rennes,2024-04-22,3680.16,Premium
+847,Nicolas,Dubois,nicolas.dubois@email.com,37,Nantes,2024-07-18,2616.76,Actif
+848,Jean,Richard,jean.richard@email.com,37,Rennes,2025-04-30,448.07,Actif
+849,Luc,Robert,luc.robert@email.com,36,Rennes,2025-07-06,4470.56,Actif
+850,David,Moreau,david.moreau@email.com,63,Paris,2024-12-01,2355.04,Premium
+851,Emma,Dupont,emma.dupont@email.com,19,Nantes,2024-06-28,2104.05,Premium
+852,Claire,Robert,claire.robert@email.com,48,Bordeaux,2025-07-27,1592.73,Premium
+853,Thomas,Moreau,thomas.moreau@email.com,61,Toulouse,2024-03-15,4987.79,Premium
+854,Julie,Bernard,julie.bernard@email.com,73,Marseille,2023-11-22,1595.4,Actif
+855,Luc,Dupont,luc.dupont@email.com,25,Nantes,2025-01-17,1639.52,Inactif
+856,Nicolas,Martin,nicolas.martin@email.com,76,  Toulouse  ,2024-02-10,4516.57,Premium
+857,Luc,Petit,luc.petit@email.com,42,Strasbourg,2024-01-10,4575.04,Actif
+858,Julie,Petit,julie.petit@email.com,104,Rennes,2024-10-12,127.25,Inactif
+859,David,Dubois,david.dubois@email.com,105,Bordeaux,2023-12-14,4490.03,Inactif
+860,Thomas,Bernard,thomas.bernard@email.com,59,  Nantes  ,2024-06-02,368.95,Actif
+861,Laura,Lefebvre,laura.lefebvre@email.com,62,Paris,2025-01-27,3901.73,Premium
+862,Jean,Thomas,jean.thomas@email.com,53,Toulouse,2025-07-01,2192.02,Inactif
+863,Pierre,Petit,pierre.petit@email.com,57,Rennes,2024-12-03,2158.9,Inactif
+864,David,Laurent,david.laurent@email.com,47,Bordeaux,2025-07-12,64.49,Premium
+865,Claire,Robert,claire.robert@email.com,50,Marseille,2024-06-26,849.82,Inactif
+866,Pierre,Leroy,pierre.leroy@email.com,76,Lille,2024-07-23,4970.86,Actif
+867,Sophie,Durand,sophie.durand@email.com,61,Strasbourg,2025-03-22,100.0,Actif
+868,Marie,Durand,marie.durand@email.com,40,Toulouse,2024-01-03,4705.72,Inactif
+869,Nicolas,Martin,,27,Nice,2025-02-14,4252.87,Actif
+870,Julie,Dupont,julie.dupont@email.com,56,Strasbourg,2023-12-03,2121.88,Inactif
+871,Claire,Richard,claire.richard@email.com,74,  Toulouse  ,2024-09-07,2249.87,Inactif
+872,Pierre,Thomas,pierre.thomas@email.com,23,Nice,2024-01-20,2236.62,Actif
+873,Julie,Dubois,julie.dubois@email.com,69,  Bordeaux  ,2024-02-26,4053.05,Inactif
+874,Thomas,Lefebvre,thomas.lefebvre@email.com,52,Marseille,2024-12-11,215.48,Inactif
+875,Thomas,Robert,thomas.robert@email.com,48,Strasbourg,2024-12-18,360.12,Inactif
+876,Anne,Moreau,anne.moreau@email.com,58,Toulouse,2024-05-20,2872.46,Inactif
+877,Claire,Bernard,claire.bernard@email.com,78,Nice,2024-05-07,4551.49,Premium
+878,Anne,Durand,anne.durand@email.com,59,Rennes,2024-11-29,3786.15,Inactif
+879,Nicolas,Martin,nicolas.martin@email.com,60,Bordeaux,2025-06-10,1503.75,Inactif
+880,Sophie,Simon,sophie.simon@email.com,61,  Marseille  ,2025-01-01,2465.3,Inactif
+881,Thomas,Leroy,thomas.leroy@email.com,49,Marseille,2025-09-14,4741.71,Actif
+882,Marie,Dubois,marie.dubois@email.com,54,Lyon,2024-08-26,1504.59,Actif
+883,Marc,Simon,marc.simon@email.com,50,Toulouse,2025-10-15,2662.82,Premium
+884,Luc,Petit,luc.petit@email.com,89,Paris,2025-04-27,2579.4,Actif
+885,Marc,Dupont,marc.dupont@email.com,35,  Lyon  ,2025-02-07,1549.1,Premium
+886,Julie,Leroy,julie.leroy@email.com,26,  Lille  ,2025-05-10,3591.82,Actif
+887,Anne,Bernard,anne.bernard@email.com,116,Toulouse,2024-04-10,4363.25,Inactif
+888,Marc,Richard,marc.richard@email.com,50,Marseille,2025-03-11,1845.6,Actif
+889,Anne,Petit,anne.petit@email.com,67,Rennes,2024-07-03,248.06,Inactif
+890,Claire,Moreau,claire.moreau@email.com,43,  Paris  ,2024-08-13,542.94,Premium
+891,Luc,Dupont,luc.dupont@email.com,36,Marseille,2025-06-12,1115.0,Premium
+892,Anne,Simon,anne.simon@email.com,43,Strasbourg,2024-03-23,2536.86,Premium
+893,Nicolas,Moreau,nicolasmoreauemail.com,58,  Toulouse  ,2024-06-17,3866.02,Premium
+894,Julie,Petit,julie.petit@email.com,74,Strasbourg,2025-03-26,923.48,Actif
+895,Jean,Moreau,jean.moreau@email.com,55,Bordeaux,2025-05-20,3640.84,Inactif
+896,Anne,Petit,anne.petit@email.com,39,  Lyon  ,2024-02-28,4799.87,Premium
+897,Luc,Richard,luc.richard@email.com,22,Nantes,2024-08-25,2227.12,Inactif
+898,Claire,Durand,claire.durand@email.com,21,Toulouse,2024-08-25,1929.64,Actif
+899,Julie,Laurent,julie.laurent@email.com,41,  Toulouse  ,2024-10-05,1789.14,Actif
+900,Nicolas,Petit,nicolas.petit@email.com,28,,2024-06-14,1143.15,Inactif
+901,Marc,Martin,marc.martin@email.com,69,  Nice  ,2024-08-02,4275.71,Actif
+902,Jean,Richard,jean.richard@email.com,57,Nice,2024-10-26,916.8,Actif
+903,Thomas,Simon,thomas.simon@email.com,39,Paris,2024-07-02,996.9,Actif
+904,Paul,Martin,paul.martin@email.com,18,Toulouse,2024-04-17,1243.51,Inactif
+905,Julie,Petit,julie.petit@email.com,65,Paris,2025-06-28,3242.64,Inactif
+906,Nicolas,Lefebvre,nicolas.lefebvre@email.com,28,Toulouse,2024-12-14,2811.16,Actif
+907,Laura,Durand,laura.durand@email.com,74,Bordeaux,2024-04-14,4389.56,Actif
+908,Thomas,Robert,thomas.robert@email.com,56,Marseille,2024-08-24,3580.04,Actif
+909,Laura,Bernard,laura.bernard@email.com,100,Bordeaux,2023-12-05,1175.86,Premium
+910,Laura,Dubois,laura.dubois@email.com,49,Nantes,2024-12-08,902.3,Inactif
+911,Emma,Petit,emma.petit@email.com,76,Lyon,2024-12-28,2916.45,Inactif
+912,David,Dupont,david.dupont@email.com,65,Lille,2024-01-07,2202.1,Actif
+913,Emma,Leroy,emma.leroy@email.com,35,  Lille  ,2024-01-20,1677.9,Actif
+914,Thomas,Simon,thomas.simon@email.com,78,  Nice  ,2025-01-18,3204.54,Inactif
+915,Luc,Durand,luc.durand@email.com,76,Lyon,2024-01-17,1014.2,Premium
+916,David,Laurent,davidlaurentemail.com,49,  Strasbourg  ,2024-01-14,3555.38,Premium
+917,Nicolas,Martin,nicolas.martin@email.com,31,Rennes,2024-10-07,1466.66,Actif
+918,Anne,Durand,anne.durand@email.com,56,Marseille,2024-09-05,2273.83,Premium
+919,Luc,Leroy,luc.leroy@email.com,62,  Lille  ,2025-01-14,1571.19,Inactif
+920,Luc,Leroy,luc.leroy@email.com,72,Nantes,2024-06-15,4129.77,Actif
+921,Luc,Bernard,luc.bernard@email.com,64,Bordeaux,2024-06-06,1272.33,Actif
+922,Jean,Bernard,jean.bernard@email.com,80,,2025-03-12,2559.28,Actif
+923,Emma,Martin,emma.martin@email.com,26,Bordeaux,2025-08-25,2156.53,Premium
+924,Laura,Durand,laura.durand@email.com,23,Lyon,2025-07-16,3003.6,Premium
+925,Thomas,Durand,thomas.durand@email.com,50,Marseille,2024-09-02,4788.12,Actif
+926,Sophie,Bernard,sophie.bernard@email.com,77,Nantes,2023-12-31,549.56,Inactif
+927,David,Durand,david.durand@email.com,76,Strasbourg,2023-12-13,2568.77,Premium
+928,Luc,Durand,luc.durand@email.com,80,Nice,2025-08-23,4217.71,Premium
+929,Julie,Simon,julie.simon@email.com,35,Nice,2024-06-15,991.29,Premium
+930,David,Moreau,david.moreau@email.com,52,Lyon,2025-01-08,3035.67,Premium
+931,Sophie,Petit,,36,  Rennes  ,2025-06-28,4490.78,Actif
+932,Julie,Martin,julie.martin@email.com,49,Paris,2024-01-31,4317.09,Inactif
+933,Luc,Durand,luc.durand@email.com,30,Nantes,2025-03-28,3905.41,Actif
+934,Claire,Leroy,claire.leroy@email.com,28,Toulouse,2024-05-28,3381.43,Inactif
+935,Marc,Petit,marc.petit@email.com,50,Rennes,2024-11-26,1931.85,Premium
+936,Marie,Leroy,marie.leroy@email.com,44,Lyon,2024-11-30,1472.89,Actif
+937,David,Durand,david.durand@email.com,50,Lyon,2025-10-12,2311.11,Inactif
+938,Luc,Martin,luc.martin@email.com,75,Marseille,2024-12-14,2588.64,Premium
+939,David,Moreau,david.moreau@email.com,78,Marseille,2024-09-21,4386.96,Premium
+940,Marc,Martin,marc.martin@email.com,25,Strasbourg,2025-05-23,3287.12,Inactif
+941,David,Durand,david.durand@email.com,31,Paris,2025-10-29,3119.01,Premium
+942,Emma,Dubois,emma.dubois@email.com,65,Strasbourg,2024-04-12,2013.03,Inactif
+943,Anne,Robert,anne.robert@email.com,72,Toulouse,2024-01-31,895.16,Actif
+944,Julie,Robert,julie.robert@email.com,68,Toulouse,2025-05-31,4559.7,Inactif
+945,Pierre,Dubois,pierre.dubois@email.com,76,  Nantes  ,2024-06-13,3379.95,Premium
+946,Marc,Durand,marc.durand@email.com,69,Rennes,2024-10-29,2757.1,Inactif
+947,Sophie,Robert,sophie.robert@email.com,45,Bordeaux,2023-11-30,382.13,Actif
+948,David,Dubois,david.dubois@email.com,79,Toulouse,2025-07-29,2998.89,Actif
+949,Marie,Thomas,marie.thomas@email.com,24,Paris,2024-10-27,1784.76,Premium
+950,Marie,Thomas,marie.thomas@email.com,22,Nantes,2025-10-09,1483.09,Inactif
+951,Anne,Leroy,anne.leroy@email.com,23,Paris,2023-12-25,417.14,Actif
+952,Marie,Leroy,marie.leroy@email.com,21,  Marseille  ,2025-06-28,1435.0,Inactif
+953,Sophie,Durand,sophie.durand@email.com,20,Marseille,2024-01-31,4049.72,Actif
+954,Julie,Moreau,julie.moreau@email.com,66,Lille,2025-08-25,2866.31,Actif
+955,Emma,Leroy,emma.leroy@email.com,28,  Bordeaux  ,2023-12-20,348.81,Premium
+956,Laura,Robert,laura.robert@email.com,55,Lyon,2025-04-22,3916.47,Premium
+957,Thomas,Thomas,thomas.thomas@email.com,15,  Lille  ,2024-03-31,1023.13,Inactif
+958,Anne,Bernard,anne.bernard@email.com,44,Bordeaux,2025-03-12,3133.38,Actif
+959,Luc,Dubois,luc.dubois@email.com,60,Bordeaux,2025-02-05,1324.36,Premium
+960,Emma,Dupont,emma.dupont@email.com,70,Toulouse,2024-05-04,1187.21,Inactif
+961,David,Bernard,david.bernard@email.com,12,Lille,2024-11-02,3458.5,Actif
+962,Jean,Simon,jean.simon@email.com,25,Paris,2024-12-25,4046.06,Premium
+963,Emma,Simon,emma.simon@email.com,111,Bordeaux,2024-02-26,2594.23,Actif
+964,Marie,Thomas,marie.thomas@email.com,39,Bordeaux,2025-06-12,3091.9,Actif
+965,Nicolas,Bernard,nicolas.bernard@email.com,67,,2024-04-16,4114.32,Premium
+966,David,Moreau,david.moreau@email.com,33,Paris,2025-01-14,3010.42,Actif
+967,Luc,Laurent,luc.laurent@email.com,42,Bordeaux,2024-02-20,3654.38,Premium
+968,David,Petit,david.petit@email.com,57,Bordeaux,2023-12-14,3895.09,Premium
+969,Luc,Bernard,luc.bernard@email.com,21,  Strasbourg  ,2023-11-14,3385.94,Actif
+970,Marc,Simon,marc.simon@email.com,43,Strasbourg,2024-06-04,95.39,Actif
+971,Sophie,Martin,sophie.martin@email.com,46,Toulouse,2024-08-14,4966.98,Premium
+972,Paul,Robert,paul.robert@email.com,46,Strasbourg,2023-12-18,1392.56,Premium
+973,Sophie,Durand,sophie.durand@email.com,58,  Paris  ,2023-12-03,3050.86,Inactif
+974,Claire,Simon,claire.simon@email.com,24,Strasbourg,2025-06-29,1789.58,Actif
+975,Luc,Thomas,lucthomasemail.com,66,Rennes,2025-07-18,2858.21,Inactif
+976,Julie,Durand,julie.durand@email.com,64,Strasbourg,2024-11-25,4981.97,Actif
+977,Nicolas,Martin,nicolas.martin@email.com,66,Paris,2024-02-26,999.22,Inactif
+978,Jean,Leroy,jean.leroy@email.com,20,Nantes,2024-10-22,2389.85,Actif
+979,Sophie,Robert,sophie.robert@email.com,25,Paris,2025-05-16,332.97,Premium
+980,Laura,Durand,laura.durand@email.com,52,  Lyon  ,2025-02-08,2334.41,Actif
+981,Marie,Simon,marie.simon@email.com,80,Bordeaux,2024-06-19,280.55,Actif
+982,Emma,Leroy,emma.leroy@email.com,80,Paris,2025-07-29,1307.76,Actif
+983,Laura,Lefebvre,laura.lefebvre@email.com,45,  Toulouse  ,2024-12-09,4414.65,Premium
+984,Thomas,Simon,,49,Nantes,2024-12-06,2277.63,Premium
+985,Marc,Lefebvre,marc.lefebvre@email.com,73,Lyon,2024-05-11,4590.76,Premium
+986,Anne,Durand,anne.durand@email.com,20,Lille,2024-03-27,2319.1,Actif
+987,Laura,Bernard,laura.bernard@email.com,104,Lyon,2024-02-29,1995.23,Premium
+988,Pierre,Bernard,pierre.bernard@email.com,49,  Bordeaux  ,2025-02-10,4031.27,Premium
+989,Marie,Petit,marie.petit@email.com,77,Marseille,2024-03-16,3273.72,Inactif
+990,Claire,Petit,claire.petit@email.com,50,  Nice  ,2025-07-27,993.18,Premium
+991,Nicolas,Dupont,nicolas.dupont@email.com,64,Nice,2025-06-25,4527.33,Inactif
+992,Jean,Martin,jean.martin@email.com,55,  Lyon  ,2025-07-13,3965.6,Actif
+993,Marie,Petit,marie.petit@email.com,78,Lille,2024-10-17,834.49,Actif
+994,David,Thomas,davidthomasemail.com,66,Nantes,2025-07-27,391.32,Inactif
+995,Pierre,Bernard,pierre.bernard@email.com,59,Nantes,2023-12-17,886.0,Actif
+996,Jean,Simon,jean.simon@email.com,72,  Strasbourg  ,2025-10-25,2357.64,Inactif
+997,Nicolas,Bernard,nicolas.bernard@email.com,45,Bordeaux,2024-02-23,772.57,Inactif
+998,Emma,Simon,emma.simon@email.com,85,Bordeaux,2024-03-11,4851.43,Actif
+999,Nicolas,Simon,nicolas.simon@email.com,79,Rennes,2025-07-05,106.65,Actif
+1000,Laura,Thomas,laura.thomas@email.com,77,  Bordeaux  ,2025-03-23,1915.16,Actif
+857,Luc,Petit,luc.petit@email.com,42,Strasbourg,2024-01-10,4575.04,Actif
+494,Claire,Dubois,claire.dubois@email.com,24,Strasbourg,2025-02-27,4111.97,Inactif
+5,Nicolas,Petit,nicolas.petit@email.com,36,Paris,2025-05-06,671.2,Actif
+148,Sophie,Dupont,sophie.dupont@email.com,29,Rennes,2024-02-14,4716.84,Premium
+451,Sophie,Moreau,sophie.moreau@email.com,20,Toulouse,2024-05-06,4842.48,Actif
+476,Laura,Martin,laura.martin@email.com,54,Paris,2024-04-02,4713.09,Actif
+385,Luc,Durand,lucdurandemail.com,64,  Lyon  ,2024-01-01,857.25,Inactif
+165,Laura,Thomas,laurathomasemail.com,69,Lyon,2025-01-27,3192.94,Inactif
+525,Sophie,Laurent,sophie.laurent@email.com,33,  Marseille  ,2024-03-08,3546.08,Premium
+777,Jean,Robert,jean.robert@email.com,20,Nantes,2024-12-03,292.79,Premium
+171,Paul,Laurent,paul.laurent@email.com,28,Lyon,2024-11-03,1599.23,Premium
+112,Nicolas,Petit,nicolas.petit@email.com,66,Toulouse,2024-03-22,479.92,Premium
+532,Claire,Durand,claire.durand@email.com,61,Lyon,2025-02-11,2675.41,Inactif
+261,Claire,Laurent,claire.laurent@email.com,31,Strasbourg,2025-10-21,1144.17,Actif
+117,David,Dubois,david.dubois@email.com,36,Marseille,2024-06-27,925.41,Actif
+726,Marc,Leroy,marcleroyemail.com,67,Lyon,2024-09-13,3458.68,Actif
+401,Paul,Petit,paul.petit@email.com,23,Nice,2025-02-05,158.86,Actif
+402,Emma,Durand,emma.durand@email.com,41,Bordeaux,2024-05-03,4066.7,Premium
+801,Marc,Lefebvre,marc.lefebvre@email.com,28,Lille,2024-08-14,949.04,Premium
+637,Thomas,Laurent,thomas.laurent@email.com,77,Lyon,2024-02-04,580.38,Actif
+281,Marc,Petit,marc.petit@email.com,58,Nice,2023-12-14,2678.85,Inactif
+247,Claire,Moreau,claire.moreau@email.com,65,Nice,2024-09-30,1173.11,Actif
+966,David,Moreau,david.moreau@email.com,33,Paris,2025-01-14,3010.42,Actif
+84,Anne,Robert,anne.robert@email.com,78,  Lille  ,2025-10-20,3112.03,Actif
+410,Emma,Petit,emma.petit@email.com,75,Bordeaux,2024-02-19,3180.45,Inactif
+301,Pierre,Lefebvre,pierre.lefebvre@email.com,37,Toulouse,2024-05-05,648.14,Inactif
+330,Laura,Dupont,laura.dupont@email.com,105,Lille,2025-06-01,333.24,Premium
+327,Pierre,Thomas,pierre.thomas@email.com,72,Nice,2024-10-27,4335.91,Premium
+446,Sophie,Lefebvre,sophie.lefebvre@email.com,58,Lyon,2024-03-30,1976.95,Inactif
+40,Jean,Moreau,jean.moreau@email.com,42,Paris,2025-08-03,1508.09,Inactif
+234,Marie,Leroy,marie.leroy@email.com,76,  Toulouse  ,2025-03-23,2779.34,Inactif
+64,Luc,Dubois,luc.dubois@email.com,67,Bordeaux,2023-11-01,4611.99,Premium
+611,Thomas,Leroy,thomas.leroy@email.com,73,Strasbourg,2023-11-12,2215.86,Premium
+115,Thomas,Dubois,thomas.dubois@email.com,42,  Nice  ,2024-12-08,4767.33,Actif
+473,Paul,Leroy,paulleroyemail.com,78,Toulouse,2025-03-22,2190.31,Actif
+466,Emma,Petit,emma.petit@email.com,63,Marseille,2024-05-24,4271.87,Actif
+691,Julie,Thomas,julie.thomas@email.com,25,Lille,2024-10-30,439.46,Inactif
+974,Claire,Simon,claire.simon@email.com,24,Strasbourg,2025-06-29,1789.58,Actif
+979,Sophie,Robert,sophie.robert@email.com,25,Paris,2025-05-16,332.97,Premium
+382,Anne,Martin,annemartinemail.com,52,Toulouse,2024-05-02,1590.38,Premium
+778,Marie,Robert,marie.robert@email.com,25,  Strasbourg  ,2025-02-18,4093.4,Premium
+251,Marie,Petit,marie.petit@email.com,35,Bordeaux,2024-07-28,2459.52,Actif
+456,Emma,Martin,emmamartinemail.com,58,Nice,2024-09-24,765.37,Actif
+706,David,Leroy,david.leroy@email.com,77,Nice,2024-09-26,4426.45,Inactif
+302,Anne,Simon,anne.simon@email.com,59,Strasbourg,2025-02-04,4519.25,Premium
+331,Julie,Leroy,julie.leroy@email.com,18,Nantes,2025-09-10,2111.44,Actif
+487,Claire,Durand,claire.durand@email.com,36,Nice,2024-08-26,3341.73,Inactif
+493,Paul,Dupont,paul.dupont@email.com,49,Nantes,2023-12-01,351.53,Inactif
+66,David,Martin,david.martin@email.com,30,Nantes,2025-04-28,1152.23,Actif
+642,Julie,Lefebvre,julie.lefebvre@email.com,47,Bordeaux,2024-03-20,333.91,Premium

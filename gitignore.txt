@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Base de données générée
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+
+# Données générées (optionnel - décommentez pour versionner les exemples)
+# data/*.csv
+
+# Jupyter Notebook
+.ipynb_checkpoints
