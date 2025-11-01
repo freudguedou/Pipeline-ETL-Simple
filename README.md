@@ -1,7 +1,7 @@
 # 🔄 Pipeline ETL Simple
 
 **Auteur:** Freud GUEDOU  
-**Date:** Octobre 2024
+**Date:** Mars 2025
 
 ## 📋 Description
 
@@ -243,7 +243,7 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 **Freud GUEDOU**
 - Projet personnel de Business Intelligence
 - Spécialisation : ETL, Data Engineering, Python
-- Date : Octobre 2024
+- Date : Mars 2025
 
 ## 📚 Ressources
 
